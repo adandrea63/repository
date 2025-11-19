@@ -1,0 +1,658 @@
+35.2
+
+€ 60,00
+
+AC-35-2
+
+ISSN 1120-6861
+e-ISSN 2385-1953
+ISBN 978-88-9285-298-3
+e-ISBN 978-88-9285-299-0
+
+A RCHE OLOG IA
+E CALCOLATORI
+
+2024
+
+ARCHEOLOGIA
+E CALCOLATORI
+
+35.2
+2024
+All’Insegna del Giglio
+
+ARCHEOLOGIA E CALCOLATORI
+
+CNR – DIPARTIMENTO SCIENZE UMANE E SOCIALI, PATRIMONIO CULTURALE
+ISTITUTO DI SCIENZE DEL PATRIMONIO CULTURALE
+Rivista annuale open access e peer reviewed
+fondata da Mauro Cristofani e Riccardo Francovich
+già diretta da Paola Moscati (1990-2022)
+Comitato Scientifico: Paola Moscati (coordinatore), Giovanni Azzena, Robin B. Boast, Julian
+Bogdani, Rodolfo Brancato, Francisco Burillo Mozota, Francesca Buscemi, Alessandra
+Caravale, Christopher Carr, Martin O.H. Carver, Enrico Crema, Francesco D’Andria,
+Alessandro Di Ludovico, François Djindjian, James E. Doran, José Antonio Esquivel
+Guerrero, Virginie Fromageot-Laniepce, Simone Garagnani, Andrea Gaucci, Antonio
+Gottarelli, Maria Pia Guermandi, Anne-Marie Guimier-Sorbets, Ian Hodder, F. Roy
+Hodson, Stephen Kay, Donna C. Kurtz, Emma Lazzeri, Daniele Manacorda, Costanza
+Miliani, Tito Orlandi, Clive R. Orton, Maria Cecilia Parra, Alessandra Piergrossi, AlbanBrice Pimpaud, Jonathan Prag, Xavier Rodier, Francesco Roncalli di Montorio, Bernardo
+Rondelli, Irene Rossi, Grazia Semeraro, Paolo Sommella, Gianluca Tagliamonte, Marco
+Valenti, Marc Vander Linden, Valeria Vitale
+Direttore responsabile: Alessandra Caravale
+Redazione ed Editing: Claudio Barchesi, Letizia Ceccarelli, Antonio D’Eredità, Andrea Di
+Renzoni, Giulia Facchin, Giacomo Mancuso, Erika Tedino
+Policy and Guidelines: http://www.archcalc.cnr.it/pages/guidelines.php
+Autorizzazione del presidente del Tribunale di Firenze n. 3894 del 6/11/1989
+Indirizzo Redazione: Rivista «Archeologia e Calcolatori», CNR – ISPC, Area della Ricerca
+di Roma 1, Via Salaria Km 29,300, 00015 Monterotondo Stazione (RM)
+Tel. +39.06.90672670 – Fax +39.06.90672818
+E-mail: redazioneac.ispc@ispc.cnr.it
+http://www.archcalc.cnr.it/
+Edizione e distribuzione: Edizioni ALL’INSEGNA DEL GIGLIO s.a.s.,
+Via Arrigo Boito 50-52, 50019 Sesto Fiorentino (FI)
+Tel. +39.055.6142675
+E-mail: redazione@insegnadelgiglio.it – ordini@insegnadelgiglio.it
+https://www.insegnadelgiglio.it/
+
+ARCHEOLOGIA
+E CALCOLATORI
+
+35.2
+2024
+
+All’Insegna del Giglio
+
+The publication of this journal’s issue was funded by H2IOSC Project - Humanities and cultural
+Heritage Italian Open Science Cloud funded by the European Union NextGenerationEU - National
+Recovery and Resilience Plan (NRRP) - Mission 4 “Education and Research” Component 2 “From
+research to business” Investment 3.1 “Fund for the realization of an integrated system of research
+and innovation infrastructures” Action 3.1.1 “Creation of new research infrastructures strengthening
+of existing ones and their networking for Scientific Excellence under Horizon Europe” - Project
+code IR0000029 - CUP B63C22000730005. Implementing Entity CNR.
+
+Realizzazione grafica della sovracoperta di Marcello Bellisario
+Rivista «Archeologia e Calcolatori» (ISSN 1120-6861, e-ISSN 2385-1953)
+ISBN 978-88-9285-298-3, e-ISBN 978-88-9285-299-0
+© 2024 – All’Insegna del Giglio s.a.s. – www.insegnadelgiglio.it
+Sesto Fiorentino (FI), dicembre 2024
+Stampa, BDprint
+Abbonamento 2024: 2 volumi, 34.1 e 34.2, € 96,00.
+Spedizione: Italia, gratuita; estero, a carico del destinatario.
+https://www.insegnadelgiglio.it/categoria-prodotto/abbonamenti/
+
+INDICE
+
+ArcheoFOSS 2023. Proceedings of the 17 t h In ter national
+Conference on Open Software, Hardware, Processes, Data and
+Formats in Archaeological Research (Turin, 12-13 December
+2023), edited by Anna Maria Marras, Alessio Palmisano, Rosina
+Leone, Vito Messina
+Anna Maria Marras, Alessio Palmisano, Rosina Leone, Vito Messina,
+Introduction
+
+11
+
+Anna Maria Marras, Foreword. Open Source, Open Science and
+communities in archaeology
+
+15
+
+Piergiovanna Grossi, Serge Plata, Amplifying archaeological outreach:
+the impact of Wikipedia and collaborative initiatives on cultural tourism 19
+Valeria Acconcia, Valeria Boi, Annalisa Falcone, Ilaria Di Cocco,
+Mirella Serlorenzi, Dati aperti in archeologia: una riflessione sullo
+stato dell’arte nell’ambito del Ministero della Cultura
+
+29
+
+Stefano Costa, Eleonora Fornelli, Anna Lorenzatto, Gennaro
+Iovino, Chiara Panelli, Fiorenza Proto, Renata Esposito, The
+DSC authority file: a link between fieldwork and finds
+
+39
+
+Zachary Batist, Does not compute! Accounting for social and situated
+experiences while integrating and analyzing obsidian sourcing data
+
+47
+
+Lucia Marsicano, Marco Montanari, Entertainment buildings in the
+Roman empire: a quantitative approach
+
+55
+
+Florian Thiery, Allard W. Mees, Sharing Linked Open Data with
+domain-specific data-driven community hubs – archaeology.link in
+NFDI4Objects
+
+63
+
+Alessio Palmisano, Andrea Titolo, The good, the bad and the ugly:
+evaluating Open Science practices in archaeology
+
+75
+
+Vittorio Lauro, Harmonizing photogrammetric approaches for
+Cultural Heritage preservation: a methodological framework
+and comparative analysis
+
+85
+
+Florian Thiery, Fiona Schenk, Stefanie Baars, Dealing with doubts: site
+georeferencing in archaeology and in the geosciences
+
+97
+
+Andrea Titolo, Alessio Palmisano, Using Kart and GitHub for versioning
+and collaborating with spatial data in archaeological research
+107
+Federica Vacatello, Andrea Vannini, ‘Open’ architecture of UAVIMALS
+prototype and its archaeological use
+119
+
+Augusto Palombini, Metaverse and ‘the Italian job’: closed and open
+models of virtual worlds in Cultural Heritage domain
+
+129
+
+Diogo Menezes Costa, The Abade Artificial Archaeological Site Project
+
+137
+
+Pablo Sicre-González, José Ortiz-García, Virtual recreation as a valid
+scientific representation for raising public awareness
+
+147
+
+Antonio Rodríguez Alcalá, John F. Chuchiak IV, Zoraida Raimúndez
+Ares, Maria Felicia Rega, Luis Díaz de León, Hans B. Erickson,
+An open look to the past: virtual and immersive approach to study
+157
+inquisitorial Autos de Fe in colonial Mexico and Guatemala
+Simone Berto, Emanuel Demetrescu, Enzo Cocca, Extended Matrix
+Manager: an open tool for EM based knowledge graphs management
+
+167
+
+Paola Frigerio, Caterina Previato, Emanuel Demetrescu, Extended
+Matrix Narratives: teaching and engaging through the past
+
+177
+
+Sara Fabbri, Reviving the past: utilizing the Extended Matrix tool for
+Deacon Thomas Dayr virtual reconstruction
+
+187
+
+Lorenzo Gigli, Marco Montanari, Lucia Marsicano, Engaging
+the public: reviving history through the Social Simulacra model in
+participatory Public History projects
+
+197
+
+Luca Bezzi, Alessandro Bezzi, Rupert Gietl, Cicero Moraes, Giuseppe
+Naponiello, Sara Airò, Andreas Putzer, Elena Silvestri, Digital
+twins of archaeological finds: open source technologies applied to 3D
+203
+scanning
+Emanuela Faresin, Vanessa Baratella, Margarita Gleba, Non-invasive
+methodologies for the study of mineralised textile traces in Iron Age
+215
+contexts
+Filippo Diara, Data extraction from 3D scanning: post-processing filtering
+for analytic and informative models of small archaeological finds
+
+225
+
+Daniele Bursich, Scansioni 3D di piccoli reperti per il progetto ArCOA
+(Archivi e Collezioni dell’Oriente Antico)
+
+235
+
+Eleonora Iacopini, Zotero2Map: sviluppo di un nuovo strumento ITC per
+la condivisione e la pubblicazione dei dati bibliografici per la ricerca
+storica e archeologica
+
+245
+
+Marco Montanari, Lucia Marsicano, Simplifying contextualization of
+3D model archives in webGIS: 3DModelCommons
+
+255
+
+Elena Marangoni, Oriana Bozzarelli, I progetti Wikimedia e gli enti
+culturali
+
+263
+
+*
+
+*
+
+*
+
+Linking Pasts and Sharing Knowledge. Mapping Archaeological
+Heritage, Legacy Data Integration and Web Technologies for
+Modelling Historical Landscapes (Naples, 13th-14th November
+2023), edited by Rodolfo Brancato, Julian Bogdani, Valeria Vitale
+Julian Bogdani, Rodolfo Brancato, Valeria Vitale, Introduction
+
+275
+
+Margherita Azzari, Paolo Liverani, Landscape visualisation and
+modelling
+
+277
+
+Mirella Serlorenzi, Ascanio d’Andrea, Carlo Rosa, Paolo Rosati,
+Daniele Sepio, Preliminary results of the archaeological potential map
+in SITAR
+285
+Giuseppina Renda, Carmine Civale, Sabrina Mataluna, Pacifico
+Cofrancesco, The GISTArc webGIS for the accessibility and sharing
+of archaeological data in Campania
+299
+Valentina Limina, Challenges and benefits in modelling ancient landscapes
+complexity through resilience and antifragility. RELOAD: a project on
+liminality in Northern Tuscany
+311
+Julian Bogdani, Domizia D’Erasmo, Old data, old methodology and new
+research. A case study of legacy data integration from the Cestrine
+Region, Epirus
+
+323
+
+Jacopo Turchetto, Elisa Consolo, Giacomo Moro, Mapping the
+archaeological landscapes of San Basilio (Ariano nel Polesine, Rovigo) 333
+Barbara E. Borg, Eleonora Iacopini, IN-ROME – The INscribed city:
+urban structures and interaction in imperial Rome
+
+343
+
+Valeria Vitale, Katherine McDonough, Labels and symbols: using text
+on maps to investigate the antiquities on the ordnance survey maps of
+Great Britain
+
+355
+
+Nicola Laneri, Chiara Pappalardo, Marianna Nicolosi-Asmundo,
+Daniele Francesco Santamaria, Godscapes: towards a model of
+material religion in the second millennium BCE Levant via Semantic
+Web ontologies
+
+363
+
+Sergio G. Russo, Geostatistical mapping of pottery variation: the northern
+lands of western Asia during the Middle Bronze Age
+
+371
+
+Andrea D’Andrea, Legacy data or just archaeological data?
+
+381
+
+Rodolfo Brancato, Veronica Ferrari, Immacolata Ditaranto,
+Pasquale Merola, Irene Rossi, Investigating resilient Roman
+agricultural landscapes in southern Italy. An integrated and open IT
+approach to modeling centuriation
+
+387
+
+Laura Ebanista, Use and processing of multispectral images in proximity
+remote sensing
+
+401
+
+Claudia Lamanna, Evaluation of SfM and LiDAR technology for
+mapping inscribed artifacts. Preliminary observations starting from
+the research project ‘Ravenna and its Late Antique and Medieval
+Epigraphic Landscape’
+
+411
+
+Daniele De Simone, Graziano William Ferrari, 3D LiDAR modeling
+with iPhone Pro in an archaeo-spelaeologic context. Results and
+prospects
+
+421
+
+Giuseppe Luongo, GIS integration of heterogeneous data for the
+archaeological topography of the ‘Acquedotto del Paradiso’, Syracuse
+
+431
+
+Giulia Marsili, Digital strategies for enhancing Cultural Heritage: the Villa
+del Casale of Piazza Armerina Project, from legacy data to digital
+445
+ecosystem
+Paola Moscati, Concluding remarks: looking back and moving forward to
+the openness and interaction of knowledge
+*
+
+*
+
+455
+
+*
+
+The H2IOSC Project and its impact on digital antiquity within
+the E-RIHS infr astructure – II, Special section edited by
+Alessandra Caravale, Paola Moscati, Irene Rossi
+Alessandra Caravale, Paola Moscati, Irene Rossi, Advancements of
+the H2IOSC Project: enhancement of digital resources in the Cultural
+Heritage field targeting archaeology and epigraphy. Introduction to the
+Special section
+463
+Nicolò Paraciani, A new website for the journal «Archeologia e Calcolatori» 471
+Francesca Buscemi, Leonarda Fazio, Verso la costituzione di linee guida
+per l’esposizione di risorse visuali negli aggregatori europei
+
+483
+
+Irene Rossi, Chiara Salvador, An observatory of epigraphic resources on
+the web: the Open Digital Epigraphy Hub
+
+503
+
+Recensioni:
+D. Manacorda, Triangolo virtuoso. Tre parole chiave per l’archeologia
+(Giulia Facchin), p. 525; M. Danese, N. Masini, M. Biscione, Gli Open
+Data per il patrimonio culturale: aspetti teorici ed esperienze in Italia
+(Giacomo Mancuso), p. 528
+
+LINKING PASTS AND SHARING KNOWLEDGE .
+MAPPING ARCHAEOLOGICAL HERITAGE ,
+LEGACY DATA INTEGR ATION
+AND W EB TECHNOLOGIES
+FOR MODELLING HISTORICAL LANDSCAPES
+(NAPLES, 13 T H -14 T H NOVEMBER 2023)
+
+Edited by
+Rodolfo Brancato, Julian Bogdani, Valeria Vitale
+
+The publication of the section dedicated to the Proceedings of the international Conference Linking
+Pasts and Sharing Knowledge. Mapping Archaeological Heritage, Legacy Data Integration and Web
+Technologies for Modelling Historical Landscapes, Naples, 13th-14th November 2023 was made
+possible thanks to the support of Dipartimento di Studi Umanistici-Università di Napoli Federico II
+(PRIN 2022 In.Res.Agri, Project Code 2022SMJCHX, CUP: B53D23001910006) and Sapienza
+Università di Roma.
+
+Archeologia e Calcolatori
+35.2, 2024, 381-386
+doi 10.19282/ac.35.2.2024.40
+
+LEGACY DATA OR JUST ARCHAEOLOGICAL DATA?
+1. Introduction
+The proliferation of digital information resources is generating a phenomenon in every field of human knowledge commonly identified as ‘datafication’ (Mayer-Schonberger, Cukier 2013). Originally, the concept
+described the tendency to transform every aspect of life into data. Later, the
+term was used to define behaviours that pushed towards greater automation in
+handling large collections of data. ‘Data is the new oil’ has become over time
+the paradigm of information players (Google, Microsoft, Amazon, etc.) that
+produces added value on data collection and exploitation. The introduction
+of Big Data and, more generally, the need to train models for artificial intelligence, have modified the initial idea of ‘datafication’, which today coincide
+with a particular method of seeing, representing, discovering, and exploring
+information. Thus, data is replacing the methodologies aimed at producing,
+managing, and interpreting them.
+The diffusion and use of data in different fields, such as scientific and
+educational, have led to a paradigm shift characterized by intensive data
+use and the possibility of automatically extracting and inferring knowledge
+from a vast collection of digital documents (Hey, Tansley, Tolle 2009).
+This new form of science, based on the fundamental activity of capturing,
+curating, and analysing data, aims not to propose simulative models but
+to enable the scientific exploration of nearly infinite collections of records
+available online, enhancing the analytical potential of each researcher.
+To access the materials needed for their research, researchers should sift
+through a digital library characterized by volumes, articles, reports, tables,
+images, drawings, photographs, sorted according to different standards,
+different languages, etc., and especially without a careful librarian capable
+of preserving memory and trace of the contents. Computational sciences
+increasingly support online research through the development of hardware
+and software systems aimed at integrating resources on the web, overcoming
+data fragmentation and heterogeneity; despite the encouraging technological
+innovations, many of the proposed solutions are partial and not entirely
+conclusive.
+A significant impetus to the automatic processing of large amounts of
+data comes primarily from the implementation of new ‘intelligence’ techniques aimed at countering international terrorism through a broader sharing
+of decentralized databases (9/11 Commission Report, 2004). The need to
+increase the quality of data traffic control on the Internet, often consisting
+381
+
+A. D’Andrea
+
+of unstructured information, has accelerated the development of algorithms
+capable of constructing aggregations of suspicious data (Biltgen, Ryan 2015).
+The challenge in collecting and analysing data is assuming a central role
+in the relationship between emerging technologies, raw information available
+online, and the automatic extraction of content that can be grouped together.
+Innovation, therefore, looks towards a new interdisciplinary interaction aimed at overcoming the thin boundary between physical and virtual reality.
+Archaeological research has also been impacted by an explosion of digital
+data, digitised or digitalized data from new and recent discovery or from old
+archives. More generally, information technology has caused such a change
+in researchers’ attitudes that it is thought that all archaeologists have become
+digital, although differences persist in skills and in access to and use of data
+(Morgan, Eve 2012). This contribution aims to explore a particular aspect
+in the process of re-elaborating digital data in archaeological research, namely
+that of legacy spatial data, which more generally we can identify in previous
+studies, digital or paper, structured or unstructured, often built with now
+outdated methodological approaches.
+2. Data vs datafication in archaeology
+Archaeological data plays a central role in research to the extent that
+we speak of the formation of the archaeological record to indicate which
+processes have produced that trace that the archaeologist subsequently records. While the theoretical and methodological debate seems to oscillate
+between very divergent opinions on the nature of excavation and its related
+archaeological documentation, some fixed points can be noted. Archaeology
+is characterized by poorly defined variables, often mistakenly thought of as
+data, derived from populations not always fully understood and from uncertain articulations between the entities whose logical relationships we seek to
+understand (Chippindale 2000). Archaeological research often moves in a
+marshy terrain characterized by uncertain boundaries, stagnant waters, muddy
+soil, and with a particular vegetation and fauna. For these reasons that M.B.
+Schiffer (1987) defines the archaeological record as the distorted reflection
+of an object that was once part of a more comprehensive behavioural system
+that we only partially reconstruct. According to I. Huvila (2017), data can be
+recorded and organized from a dozen different perspectives, and to emphasize
+the ambiguous and misleading nature of the variable in archaeological documentation, he coined the term MEAN (Miscellaneous Exceptional Arbitrary
+Nonconformist).
+Examining the consistency of the digital archaeological record, J. Huggett (2022) has recently listed some of the main incongruities that can be
+synthesized as follows:
+382
+
+Legacy data or just archaeological data?
+
+A – Tables, databases, relationships, texts can be incorporated within a
+structured data model, reducing variability, or eliminating those descriptive
+elements that do not fit the schema;
+B – Raw data can be set aside in favour of processed data sets. The distinctions between primary, secondary, and tertiary data are lost by eliminating
+the distinction from what was originally collected to what was subsequently
+processed and interpreted;
+C – The same data entities can be evidence of multiple phenomena.
+Since data depends on the context of use and, at the same time, on
+users’ beliefs, the results will always be highly complex, unstable, and
+unpredictable. All the cautions expressed by researchers about digital data
+and their use should warn archaeologists against uncritically accepting algorithms capable of automatically processing and aggregating large amounts
+of data. Only careful analysis of the entire digitization process can truly
+innovate the approach to excavation (Roosevelt et al. 2015), contributing, together with the increase in tools and sensors for data acquisition,
+to a paradigm shift (Huggett 2015; Schmidt, Maverick 2020). In the
+future, digitalization will simplify the work of archaeologists, who will
+be able to focus on examining more general and theoretical issues rather
+than organizing data. Despite the optimistic forecasts, outside of this promising scenario will remain the past excavations that preserve paper data
+or collections of digital records coded with old programs and according
+to outdated methods.
+3. Legacy spatial archaeological data
+Huggett (2018) has pointed out how the reuse of digital archives
+involves data aggregation that creates new values, which at the end of the
+process, however, can be more ambiguous and less transparent (Clarke
+2016) in the absence of precise contextual data. The choice to use metadata
+and paradata associated with archives certainly contributes to increasing
+data understanding; however, the inherently unstable nature of any data
+integration process makes the Big Data scenario an objective with uncertain outcomes. Processing large amounts of archaeological records from
+different excavations and research necessarily entails a reconsideration
+of data recording methods and archive creation. Such caution necessarily
+increases when spatial data acquired at different times and with different
+methodologies are reused.
+A trend towards the adoption of automated computer means to make
+efficient and effective use of large data sets was already present at the end of
+1980s (Kvamme 1989). The pioneering use of databases to store and process large amounts of data was replaced by GIS systems, while in the same
+383
+
+A. D’Andrea
+
+years CAD was established for the realization of topographic drawings and
+graphic documentation of excavations, allowing for rapid updating of plans
+and stratigraphy (Alperson-Afil 2019). The parallel development of GIS
+and CAD technologies, both based on a common numerical representation
+of information, has pushed industries towards greater integration between
+the two systems. However, despite the development of interoperable formats,
+migrating CAD drawings to GIS requires specific conceptualization, making
+automatic conversion impossible. Adapting CAD files for GIS applications,
+therefore, remains a challenging task, impossible to complete without substantial human intervention (Bibby, Ducke 2017). The difference between
+the two systems lies in the connection between geometric entities and the
+alphanumeric information associated with them. In particular, CAD produces
+complex graphical maps but ignores the non-spatial attributes associated with
+graphic entities. Therefore, reusing CAD data in GIS requires a reorganization of geometric and spatial information based on the identification and
+construction of objects that transform geometric primitives into semantic
+categories (walls, rooms, streets, buildings, etc.).
+A test, conducted for the implementation of a GIS for the archaeological site of al-Balīd, ancient Zafar, in the Sultanate of Oman, confirmed the
+difficulty in designing and creating an automatic path for importing and
+managing a previous cartographic archive consisting mainly of CAD maps.
+Over the last 70 years, several teams have investigated the area of Zafar, an
+important Islamic-period maritime stopover located along the routes crossing
+the Indian Ocean (D’andrea 2021). In 1995, a German mission, led by M.
+Jansen (2015), was tasked with creating the archaeological park of the site.
+At the end of the work, a substantial digital archive was produced, including
+dozens of CAD files reproducing the archaeological area. In 2019, a research
+group from the University of Naples L’Orientale resumed investigations in
+the area with the aim, among others, of systematizing previous research and
+creating a GIS that would collect previous site plans and drawings. The review of the CAD archive started from the analysis of the survey of the Great
+Mosque, with the aim of verifying the accuracy of spatial information and the
+possible migration to GIS. The table associated with the spatial information
+present in QGIS lists 245 vectors that are not convertible automatically into
+architectural and structural elements of the religious building without human
+intervention. Only by reading the excavation reports is it possible to correctly
+identify the individual components of the mosque (walls, columns, stairs,
+thresholds, etc.) and build the corresponding objects in the GIS, referring, in
+some parts, to distinct phases of the structure’s life cycle. The design of the
+GIS inevitably pushed towards a re-reading of the entire cartographic archive
+and, above all, of all the available archaeological documentation (graphic,
+photographic, and textual).
+384
+
+Legacy data or just archaeological data?
+
+4. Conclusion
+The experience gained in the project of converting the graphic archive
+of al-Balid, however partial, confirms the impossibility of designing an automatic treatment for the migration of CAD files into a GIS environment.
+The Archaeology Data Service has initiated a large-scale migration process of
+CAD files without, however, foreseeing a specific method for reusing digital
+drawings in different software and applications (Green et al. 2016).
+The challenge for a correct conversion of plans, sections, and elevations must start from the identification of represented objects and not simple
+graphical entities. The category of spatial legacy data must be treated in the
+same way as a traditional cartographic archive, requiring a reading, also
+methodological, of all existing documentation. Only by following this path is
+it possible to correctly interpret the information drawn by the archaeologist,
+regardless of the format used, paper or CAD.
+In the future, artificial intelligence will certainly provide new tools to
+automatically associate digital or handwritten texts with plans, making all this
+documentation readable by a machine (Fletcher 2023). However, pending
+the transformation of legacy data into ‘reborn digital data’, we still need to
+rely on the traditional methodology of spatial information processing, which
+places human experience at the centre of analysis.
+Andrea D’Andrea
+Dipartimento Asia, Africa e Mediterraneo
+Università degli Studi di Napoli L’Orientale
+dandrea@unior.it
+REFERENCES
+Alperson-Afil N. 2019, Digitising the undigitized: Converting traditional archaeological records
+into computerized, three-dimensional site reconstruction, «Journal of Graphic Information
+System», 11, 747-765 (https://www.scirp.org/journal/paperinformation?paperid=97426).
+Bibby D., Ducke B. 2017, Free and open-source software development in archaeology. Two
+interrelated case studies: gvSIG CE and Survey2GIS, «Internet Archaeology», 43 (https://
+doi.org/10.11141/ia.43.3).
+Biltgen P., Ryan S. 2015, Activity-Based Intelligence: Principles and Applications, Boston-London, Artech House.
+Chippindale C. 2000, Capta and data: On the true nature of archaeological information,
+«American Antiquity», 65, 4, 605-612.
+Clarke R. 2016, Big data, big risks, «Information Systems Journal», 26, 77-90 (https://doi.
+org/10.1111/isj.12088).
+D’Andrea A. 2021, Reconsidering the topography of al-Balid: A preliminary review of
+the graphical documentation, «Annali Sezione Orientale», 81, 39-50 (https://doi.
+org/10.1163/24685631-12340110).
+Fletcher E.C. 2023, Creating a software methodology to analyze and preserve archaeological legacy data, «Advances in Archaeological Practice», 11, 2, 139-151 (https//doi.
+org/10.1017/aap.2022.44).
+
+385
+
+A. D’Andrea
+
+Green K., Niven K., Field G. 2016, Migrating 2 and 3D datasets: Preserving AutoCAD at
+the Archaeology Data Service, «ISPRS International Journal of Geo-Information», 5,
+44 (https://doi.org/10.3390/ijgi5040044).
+Hey T., Tansley S., Tolle K. (eds.) 2009, The Fourth Paradigm: Data-Intensive Scientific
+Discovery, Washington, Microsoft Research.
+Huggett J. 2015, Challenging digital archaeology, «Open Archaeology», 1, 1, 79-85 (https://
+doi.org/10.1515/opar-2015-0003).
+Huggett J. 2018, Reuse remix recycle: Repurposing archaeological digital data, «Advances
+in Archaeological Practice», 6, 2, 93-104 (https://doi.org/10.1017/aap.2018.1).
+Huggett J. 2022, Data legacies, epistemic anxieties, and digital imaginaries in archaeology,
+«Digital», 2, 2, 267-295 (https://doi.org/10.3390/digital2020016).
+Huvila I. 2017, Being FAIR. When archaeological information is MEAN: Miscellaneous,
+exceptional, arbitrary, nonconformist, Presentation at the Centre for Digital Heritage
+Conference (Leiden 2017) (http://www.istohuvila.se/node/526).
+Kvamme K. 1989, Geographic Information Systems in regional archaeological research and
+data management, in M.B. Schiffer (ed.), Archaeological Method and Theory, 1,
+Tucson, University of Arizona Press, 139-203.
+Jansen M. 2015, The archaeological park of Al-Baleed, Sultanate of Oman. Site atlas along
+with selected Technical Reports 1995-2001, Muscat, Office of the Adviser to His Majesty
+the Sultan for Cultural Affairs.
+Mayer-Schonberger V., Cukier K. 2013, Big Data: A Revolution That Will Transform How
+We Live, Work, and Think, New York, Houghton Mifflin Harcourt.
+Morgan C., Eve S. 2012, DIY and Digital Archaeology: What are you doing to participate?,
+«World Archaeology», 44, 4, 521-537.
+Roosevelt C. H., Cobb P., Moss E., Olson B.R., Ünlüsoy S. 2015, Excavation is destruction
+digitization: Advances in archaeological practice, «Journal of Field Archaeology», 40,
+3, 325-346 (https://doi.org/10.1179/2042458215Y.0000000004).
+Schiffer M.B. 1987, Formation Processes of the Archaeological Record, Albuquerque, University of New Mexico.
+Schmidt S.C., Marwick B. 2020, Tool-driven revolutions in archaeological science, «Journal
+of Computer Applications in Archaeology», 3, 1, 8-32 (https://doi.org/10.5334/jcaa.29).
+The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks
+upon the United States, 2004, Washington, Government Printing Office (https://www.
+govinfo.gov/content/pkg/GPO-911REPORT/pdf/GPO-911REPORT.pdf).
+ABSTRACT
+The world of research is currently undergoing a profound transformation, characterized by the extensive use of digital data available online. To optimize the utilization of
+these resources, artificial intelligence offers researchers several tools capable of aggregating
+both structured and unstructured information. The need to train algorithms to enhance
+the use of artificial intelligence techniques in data classification has led to the creation of
+structured datasets. However, it is not always possible to fully automate the transfer of data
+to more modern environments without substantial human intervention, aimed at extracting
+the implicit knowledge present in digital data. The category of CAD data appears to be
+particularly challenging in terms of automated management of spatial resources. The use of
+graphical entities for digital drawings, without semantically identified components, makes
+automatic conversion into GIS extremely complex. The paper is based on a partial test
+conducted on a cartographic archive that has been formed over 70 years of field research,
+aiming to demonstrate the importance of prioritizing legacy spatial data, both digital and
+non-digital, as archaeological data.
+
+386
+
+35.2
+
+€ 60,00
+
+AC-35-2
+
+ISSN 1120-6861
+e-ISSN 2385-1953
+ISBN 978-88-9285-298-3
+e-ISBN 978-88-9285-299-0
+
+A RCHE OLOG IA
+E CALCOLATORI
+
+2024
+
+ARCHEOLOGIA
+E CALCOLATORI
+
+35.2
+2024
+All’Insegna del Giglio
+
+

@@ -1,0 +1,1063 @@
+IMEKO TC4 International
+Conference on Metrology for
+Archaeology and Cultural
+Heritage 2020
+
+Trento, Italy
+22 - 24 October 2020
+
+ISBN: 978-1-7138-2070-3
+
+Printed from e-media with permission by:
+Curran Associates, Inc.
+57 Morehouse Lane
+Red Hook, NY 12571
+
+Some format issues inherent in the e-media version may also appear in this print version.
+
+Copyright© (2020) by the International Measurement Confederation (IMEKO)
+All rights reserved.
+Printed with permission by Curran Associates, Inc. (2021)
+For permission requests, please contact the International Measurement Confederation (IMEKO)
+at the address below.
+IMEKO Secretariat
+Dalszinhaz utca 10, 1st floor, Office room No. 3
+H-1061 Budapest (6th district)
+Hungary
+
+Phone/Fax: +36 1 353 1562
+
+imeko@t-online.hu
+
+Additional copies of this publication are available from:
+Curran Associates, Inc.
+57 Morehouse Lane
+Red Hook, NY 12571 USA
+Phone: 845-758-0400
+Fax: 845-758-2633
+Email: curran@proceedings.com
+Web: www.proceedings.com
+
+TABLE OF CONTENTS
+INTEGRATED USE OF GPR AND TDR FOR WOOD PERMITTIVITY EVALUATION ............................. 1
+Filippo Comisi, Lara De Giorgi, Giovanni Leucci
+FROM CAUSES TO EFFECTS. INTEGRATION OF HETEROGENEOUS DATA FROM NONINVASIVE IMAGING FOR THE DIAGNOSIS AND RESTORATION OF MONUMENTS. THE
+CASE OF THE CHURCH OF S. FRANCESCO DELLA SCARPA IN LECCE (SOUTHERN
+ITALY)................................................................................................................................................................. 5
+Giovanni Leucci, Francesco Gabellone, Fabrizio Terenzio Gizzi, Nicola Masini
+A MULTISCALAR RESEARCH PROJECT, FOLLOWING AN ANCIENT DECUMANUS IN
+MONTENEGRO .................................................................................................................................................. 9
+Lucia Alberti, Francesca Colosi, Pasquale Merola
+WARSCAPES: A SUBMERGED INFORMATION BASIN. THE CONTRIBUTION OF LIDAR
+DATA TO THE UNVEILING ........................................................................................................................... 15
+Joel Aldrighettoni, Alessandra Quendolo
+ACOUSTIC REMOTE SENSING FOR SEABED ARCHAEOLOGY............................................................. 21
+Crescenzo Violante
+EVALUATING THE EFFECTS OF HIGH TIDE ON VENETIAN STONE BUILDINGS: A
+MULTI-ANALYTICAL APPROACH .............................................................................................................. 27
+Gloria Zaccariello, Elena Tesser, Rebecca Piovesan, Fabrizio Antonelli
+PETRO-ARCHAEOMETRIC CHARACTERIZATION OF HISTORICAL MORTARS IN THE
+CITY OF RAVENNA (ITALY)......................................................................................................................... 32
+Elena Marrocchino, Chiara Telloli, Paola Novara, Carmela Vaccaro
+THERMAL DECAY OF MONZOGRANITE FROM ELBA ISLAND (WESTERN TUSCANY,
+ITALY): PROPERTIES OF AN ANCIENT BUILDING MATERIAL ............................................................ 38
+Andrea Aquino, Michele Antola, Alessio Pacchini, Stefano Pagnotta, Marco Lezzerini
+MACIGNO SANDSTONE FROM GARFAGNANA AND VELLANO (NORTH-WESTERN
+TUSCANY): CHEMICAL, MINERALOGICAL, PETROGRAPHIC AND PHYSICAL
+CHARACTERIZATION OF A BUILDING MATERIAL ................................................................................ 44
+Andrea Aquino, Claudio Di Petta, Stefano Pagnotta, Marco Tamponi, Marco Lezzerini
+MACIGNO SANDSTONE FROM MONTI D'OLTRE SERCHIO: CHEMICAL,
+MINERALOGICAL, PETROGRAPHIC AND PHYSICAL CHARACTERIZATION OF A
+BUILDING MATERIAL ................................................................................................................................... 50
+Andrea Aquino, Paolo Baglini, Stefano Pagnotta, Marco Tamponi, Marco Lezzerini
+GEOPOLYMER MORTAR: METAKAOLIN-BASED RECIPE FOR CULTURAL HERITAGE
+APPLICATION .................................................................................................................................................. 55
+Stefano Pagnotta, Anna Lluveras Tenorio, Maria Rosaria Tinè, Marco Lezzerini
+ROME: NE SLOPES OF THE PALATINE HILL. ANALYSIS AND QUANTIFICATION OF
+ANCIENT ARCHITECTURES ......................................................................................................................... 60
+Emanuele Brienza, Lorenzo Fornaciari
+ARCHIVES ENHANCEMENT THROUGH DESIGN DRAWINGS SURVEY, BIM MODELING
+AND PROTOTYPING ....................................................................................................................................... 66
+Giulia Bertola
+
+BAROQUE BANDED VAULTS WITH INDEPENDENT ARCHES: FROM LITERATURE TO
+REALIZATIONS IN TURIN ATRIA ................................................................................................................ 72
+Fabrizio Natta
+3D MODELLING TROUGH PLANAR SLIDES, FROM DIGITAL TO PHYSICAL.
+EXPERIMENTS ON PALAZZO MAZZONIS ATRIUM IN TURIN .............................................................. 78
+Francesca Ronco
+ARCHAEOLOGY OF BUILDINGS AND HBIM METHODOLOGY: INTEGRATED TOOLS
+FOR DOCUMENTATION AND KNOWLEDGE MANAGEMENT OF ARCHITECTURAL
+HERITAGE ........................................................................................................................................................ 84
+Ilaria Trizio, Francesca Savini
+EXPERIENCES OF INDUSTRIAL ARCHAEOLOGY IN ITALY: FROM SURVEY TO
+MUSEUM USE .................................................................................................................................................. 90
+Francesco Gabellone
+THE OLD SCIENTIFIC-TECHNOLOGICAL INSTRUMENTATIONS IN THE MUSEO
+DELL'ARTE DELLA LANA OF STIA ............................................................................................................. 96
+Emma Angelini, Andrea Gori
+MINERALOGICAL AND CHEMICAL CHARACTERIZATION OF SURFACE ORANGE
+LAYERS ON THE LIMESTONE OF THE MONASTERY OF BATALHA, CENTRAL
+PORTUGAL..................................................................................................................................................... 101
+Yufan Ding, Pedro Redo, Emma Angelini, José Mirão, Nicola Schiavon
+OVERVIEW OF STRUCTURAL HEALTH MONITORING SYSTEMS FOR THE
+FOUNDATIONS OF HISTORIC BUILDINGS .............................................................................................. 106
+Matilde Zarrella, Carmelo Scuro, Domenico L. Carnì, Renato S. Olivito, Francesco
+Lamonaca
+ARTIFICIAL INTELLIGENCE BASED MONITORING SYSTEM FOR HISTORICAL
+BUILDING PRESERVATION ........................................................................................................................ 112
+Domenico Luca Carnì, Carmelo Scuro, Renato Sante Olivito, Maria Caterina Crocco,
+Francesco Lamonaca
+FULL-SCALE DYNAMIC TESTS ON UNREINFORCED AND GFRCM-REINFORCED
+APULIAN TUFF MASONRY ARCHES ........................................................................................................ 117
+Anna Castellano, Aguinaldo Fraddosio, Jacopo Scacco, Gabriele Milani, Mario Daniele
+Piccioni
+DYNAMIC IDENTIFICATION OF THE DAMAGE FOR A PARABOLIC TUFF BARREL
+VAULT WITH DIFFERENTIAL SETTLEMENTS OF THE SUPPORTS .................................................... 123
+Anna Castellano, Aguinaldo Fraddosio, Jacopo Scacco, Gabriele Milani, Mario Daniele
+Piccioni
+GPR PROSPECTING FOR THE SEARCH OF ST.CANIO'S LOST BONES (ACERENZA,
+SOUTHERN ITALY) ...................................................................................................................................... 129
+De Giorgi Lara, Leucci Giovanni, Maurizio Lazzari, Raffaele Persico
+A NEW METHODOLOGICAL APPROACH ON THE EVALUATION OF STABILITY OF
+CAVITIES IN SOFT CARBONATE ROCKS ................................................................................................ 133
+Lara De Giorgi, Giovanni Leucci
+3D GPR AND ERT SURVEYS AT THE COASTAL TOWER OF S. CATERINA (LECCE,
+ITALY)............................................................................................................................................................. 136
+Lara De Giorgi, Giancarlo De Pascalis, Ivan Ferrari, Francesco Giuri, Giovanni Leucci
+
+GEOPHYSICAL SURVEYS AT THE ARCHAEOLOGICAL SITE OF ANGLONA (MT) ......................... 140
+Lara De Giorgi, Dimitris Roubis, Giovanni Leucci
+GEOMETRIC SURVEY AND CHARACTERIZATION OF ARTIFACTS THROUGH
+PORTABLE DEVICES: AN EXPERIENCE OF MOBILE LABORATORY INSIDE THE
+AEOLIAN MUSEUM OF LIPARI .................................................................................................................. 144
+Dario Giuffrida, Viviana Mollica Nardo, Oreste Adinolfi, Maria Amalia Mastelloni, Rosina
+Celeste Ponterio
+A DATABASE FOR HISTORICAL PIGMENTS THROUGH HANDHELD
+INSTRUMENTATION .................................................................................................................................... 150
+Giulia Festa, Claudia Scatigno, Maria Luisa Saladino, Francesco Armetta, Veronica
+Ciaramitaro, Viviana Mollica Nardo, Rosina Celeste Ponterio
+COMBINED MIGRATION RESULTS IN GPR PROSPECTING ................................................................. 155
+Raffaele Persico, Gianfranco Morelli
+SPATIAL ANALYSIS AND LIDAR DATA FOR THE EXTRACTION OF
+ARCHAEOLOGICAL FEATURES: THE ETRUSCAN SITE OF SAN GIOVENALE, BLERA
+(LAZIO) ........................................................................................................................................................... 160
+Maria Danese, Rosa Lasaponara, Nicola Masini
+MULTIMETHODOLOGICAL GEOPHYSICAL INVESTIGATIONS TO STUDY THE
+ARCHAEOLOGICAL SITE OF NORBA (NORMA, CENTRAL ITALY) ................................................... 164
+Piro Salvatore, Quilici Gigli Stefania, Papale Enrico, Zamuner Daniela
+POINT CLOUDS REGISTRATION BASED ON CONSTANT RADIUS FEATURES FOR
+LARGE AND DETAILED CULTURAL HERITAGE OBJECTS.................................................................. 168
+L. Di Angelo, P. Di Stefano, A. E. Morabito, E. Guardiani
+ANALYSING THE THERMAL CONDITIONS OF HISTORIC BUILDINGS IN CYPRUS
+USING ARCHIVE LANDSAT SATELLITE DATA AND GOOGLE EARTH ENGINE BIG
+DATA CLOUD PLATFORM .......................................................................................................................... 174
+Athos Agapiou, Vasiliki Lysandrou, Diofantos Hadjimitsis
+THE LOCAL BLACK LIMESTONES USED TO MAKE THE TYPICAL BLACK-AND-WHITE
+ALTERNATION OF THE PISA'S ROMANESQUE STYLE......................................................................... 179
+Marco Lezzerini, Stefano Pagnotta, Andrea Aquino, Marcello Spampinato
+THE ROLE OF 3D MODELLING FOR DIFFERENT STONE OBJECTS: FROM MINERAL TO
+ARTEFACT ..................................................................................................................................................... 184
+Andrea Aquino, Stefano Pagnotta, Elena Pecchioni, Vanni Moggi Cecchi, Stefano Columbu,
+Marco Lezzerini
+WORKABILITY AND CHEMICAL-PHYSICAL DEGRADATION OF LIMESTONE
+FREQUENTLY USED IN HISTORICAL MEDITERRANEAN ARCHITECTURE .................................... 189
+Stefano Columbu, Paola Meloni, Gianfranco Carcangiu, Dario Fancello
+CA-OXALATE FILMS ON THE STONES OF THE MEDIEVAL ARCHITECTURE: THE
+CASE-STUDY OF ROMANESQUE CHURCHES ........................................................................................ 196
+Stefano Columbu, Marco Giamello, Stefano Pagnotta, Andrea Aquino, Marco Lezzerini
+COGNITIVE METHODOLOGY AND DIAGNOSTIC PLAN FOR CULTURAL HERITAGE
+CONSERVATION ........................................................................................................................................... 202
+Caterina Gattuso
+
+INTEGRATED DIGITAL SURVEY FOR THE KNOWLEDGE AND ENHANCEMENT OF THE
+IIWW HERITAGE. THE NATURAL PARK MOLENTARGIUS-SALINE (CAGLIARI, ITALY) ............. 208
+Andrea Pirinu, Andrés Martínez-Medina, Nicola Paba
+HIGH PERFORMANCE LASER SURVEY AND 3D STRESS ANALYSIS FOR
+MAINTENANCE AND PRESERVATION OF ARTISTIC ASSETS ............................................................ 214
+Adriana Marra, Salvatore Gerbino, Giovanni Fabbrocino
+A PARAMETRIC MODEL TO MANAGE ARCHAEOLOGICAL DATA ................................................... 220
+Angela Bosco, Laura Carpentiero, Andrea D Andrea, Eleonora Minucci, Rosario Valentini
+AN ASSESSMENT ON MORPHOLOGICAL SURVEY CALIBRATION AND THE
+AUTOMATION OF DIGITAL DRAWING FOR THE RELIABLE DOCUMENTATION AND
+CONSERVATION ANALYSIS OF OUT-OF-SCALE BUILDINGS ............................................................ 226
+Raffaella De Marco, Alessia Miceli, Sandro Parrinello
+A DIGITAL TWIN FOR DISTANT VISIT OF INACCESSIBLE CONTEXTS ............................................ 232
+Francesco Gabellone
+URBAN ARCHAEO-GEOPHYSICS IN CUSCO. THE CASE STUDIES OF PARANINFO AND
+CASA CONCHA ............................................................................................................................................. 238
+Nicola Masini, Sayri Garcia, Maria Sileo, Luigi Capozzoli, David Vera, Rosa Lasaponara
+THE USE OF CONE PENETRATION TESTS (CPT) FOR THE STUDY OF THE DYNAMIC
+CHARACTERISTICS OF THE SOILS ........................................................................................................... 242
+Antonio Cavallaro
+INVESTIGATION OF ARCHAELOGICAL SITES WITH SPECIES DISTRIBUTION MODELS
+AND SATELLITE DATA ............................................................................................................................... 248
+Noviello Mariangela, Cafarelli Barbara, Calculli Crescenza, Sarris Apostolos, Mairota
+Paola
+MULTIANALYTICAL INVESTIGATION AND 3D MULTIBAND MODELING: AN
+INTEGRATED SURVEY OF THE GARNIER VALLETTI POMOLOGICAL COLLECTION .................. 251
+Emanuela Grifoni, Letizia Bonizzoni, Marco Gargano, Jacopo Melada, Ilaria Mignani,
+Nicola Ludwig
+PRELIMINARY STUDIES ON THE VOLUMETRIC CAPACITY OF CERAMIC FROM THE
+NEOLITHIC SITE OF LUGO DI GREZZANA (VR) THROUGH 3D GRAPHICS SOFTWARE ............... 257
+Andrea Tavella, Marika Ciela, Paolo Chistè, Annaluisa Pedrotti
+SPACE AND SOUND CHARACTERISATION OF SMALL-SCALE ARCHITECTURAL
+HERITAGE: AN INTERDISCIPLINARY, LIGHTWEIGHT WORKFLOW. ............................................... 263
+J. Y. Blaise, I. Dudek, A. Pamart, L. Bergerot, A. Vidal, S. Fargeot, M. Aramaki, S. Ystad, R.
+Kronland-Martinet
+CASTIGLIONI CHAPEL IN PAVIA: A METHODOLOGICAL APPROACH FOR
+DOCUMENTATION AND VIRTUALISATION TECHNIQUES ................................................................. 269
+Elisabetta Doria, Francesca Galasso, Marco Morandotti
+MEASUREMENTS FOR THE RECONSTRUCTION OF ANCIENT WALLS IN OPUS
+RETICULATUM IN THE BASEMENT OF THE CASTLE OF SANTO STEFANO IN PUGLIA
+(ITALY) ........................................................................................................................................................... 275
+Angela Diceglie
+
+MOTION MAGNIFICATION ANALYSIS FOR MONITORING CULTURAL HERITAGE
+BUILDINGS AND ARCHEOLOGICAL SITES............................................................................................. 281
+Sara Forliti, Vincenzo Fioriti, Ivan Roselli, Angelo Tatì, Alessandro Colucci
+IOT-MHECHA: A NEW IOT ARCHITECTURE FOR MONITORING HEALTH AND
+ENVIRONMENTAL PARAMETERS IN CULTURAL HERITAGE AND ARCHAEOLOGICAL
+SITES ............................................................................................................................................................... 287
+Giuseppe Campobello, Alessio Altadonna, Fabio Todesco, Nicola Donato
+SETTLEMENT ANALYSIS OF THE MASONRY UMBRELLA VAULT OF THE MASEGRA
+CASTLE ........................................................................................................................................................... 293
+Nicola Grillanda, Gabriele Milani, Lorenzo Cantini, Stefano Della Torre
+A NOVEL MATHEMATICAL STRUCTURAL MODEL APPROACH FOR LOW COST
+STRUCTURAL HEALTH MONITORING SYSTEM .................................................................................... 298
+Carmelo Scuro, Saverio Porzio, Francesco Demarco, Domenico L. Carnì, Francesco
+Lamonaca, Renato S. Olivito
+DIGITAL RECONSTRUCTION OF A LOST HERITAGE: THE SAN GEMINIANO S CHURCH
+IN SAN MARCO'S SQUARE IN VENICE..................................................................................................... 304
+Caterina Balletti, Marcin Dabrowski, Francesco Guerra, Paolo Vernier
+PRELIMINARY DATA PROCESSING ON THE ROMAN SHIPWRECK OF GRADO.
+ARCHIVE AND LEGACY DATA TO CREATE ITS 3D VIRTUAL MODEL ............................................ 311
+Elisa Costa, Carlo Beltrame
+BLK2GO FOR DTM GENERATION IN HIGHLY VEGETATED AREA FOR DETECTING
+AND DOCUMENTING ARCHAEOLOGICAL EARTHWORK ANOMALIES .......................................... 316
+M. Limongiello, D. Ronchi, V. Albano
+FOSTERING ETRUSCAN HERITAGE WITH EFFECTIVE INTEGRATION OF UAV, TLS
+AND SLAM-BASED METHODS ................................................................................................................... 322
+Anna Rabbia, Giulia Sammartano, Antonia Spanò
+AN EXPERIMENTAL APPROACH TO THE CLEANING OF A POLYMATERIC TEXTILE
+WEAVE: SET-UP OF THE ALTERNATIVE METHODOLOGY AND INSTRUMENTATION ................ 328
+Paola Fermo, Valeria Comite, Elisabetta Boanini, Roberto Bonomi, Marco Bertelli, Elisa
+Monfasani
+A NEW ANALYTIC METHODOLOGY FOR THE CHARACTERIZATION OF THE
+CARBONACEOUS FRACTION IN BLACK CRUSTS PRESENT ON STONE SURFACES ..................... 333
+Valeria Comite, Mauro La Russa, Paola Fermo
+AIR POLLUTION, BLACK CRUSTS AND CAIRO MONUMENTS: A REVIEW ..................................... 338
+Natalia Rovella
+MULTI ANALYTICAL STUDY ON KHOL RESIDUES FROM THE ANCIENT EGYPTIAN
+CITY OF ASSIUT............................................................................................................................................ 343
+Francesco Saliu, Chiara Riedo, Dominique Scalarone, Ilaria Degano, Francesca Modugno,
+Sergio Andò, Marco Orlandi, Oscar Chiantore
+THE CONTRIBUTION OF ARCHAEOMETRIC ANALYSES TO THE MULTIDISCIPLINARY RESEARCH IN HIERAPOLIS OF PHRYGIA, TURKEY ................................................ 348
+G. Ricci, M. Secco, G. Artioli, F. Marzaioli, I. Passariello, F. Terrasi, M. R. Valluzzi
+
+MICROSCOPIC AND CHEMICAL CHARACTERIZATION OF METAL SLAGS FOUND AT
+THE PORTA PAOLA EXCAVATION IN FERRARA .................................................................................. 354
+Elena Marrocchino, Chiara Telloli, Carmela Vaccaro
+INTEGRATED GEOMATIC METHODOLOGIES TO RECONSTRUCT THE ANCIENT
+TOPOGRAPHY OF ROME............................................................................................................................. 360
+Luca Alessandri, Valerio Baiocchi, Marta Baumgartner, Diego Blanco, Alessandro Bosman,
+Luigi Cardone, Andrea Guaglianone, Matteo Onori, Felicia Vatore
+GEOMATICS AS A KNOWLEDGE BASE PROPAEDEUTIC TO THE RESTORATION OF AN
+EXTENDED FRESCO WALL ........................................................................................................................ 366
+Gabriele Bitelli, Valentina Alena Girelli, Giulia Vannucci, Emanuele Mandanici, Marinella
+Pigozzi
+SURVEY AND PRESERVATION OF AN ABANDONED ARCHAEOLOGICAL INDUSTRIAL
+SITE ................................................................................................................................................................. 372
+Maria Grazia D'Urso, Valerio Manzari, Francesco Cavaliere, Barbara Marana, Francesco
+Marmo
+RECONSTRUCTION OF 3D MODELS FROM MICROTOMOGRAPHIC IMAGES OF
+ARCHEOLOGICAL ARTIFACTS ................................................................................................................. 378
+Enej Gucek Puhar, Lidija Korat, Miran Eric, Aleš Jaklic, Franc Solina
+PRELIMINARY ALLOYS CHARACTERIZATION AND TECHNOLOGICAL
+INTERPRETATION OF THE MANUFACTURING PROCESS OF THE VITTORIA ALATA DI
+BRESCIA BY MEANS OF NEUTRON DIFFRACTION .............................................................................. 384
+F. Cantini, M. Galeotti, A. Cagnini, S. Porcinai, A. Scherillo, A. Brini, A. Patera, F.
+Morandini, F. Grazzi
+NEUTRON-BASED TECHNIQUES APPLIED FOR NONDESTRUCTIVE QUANTITATIVE
+CHARACTERISATION OF ANCIENT MOSAIC TESSERAE .................................................................... 389
+Giulia Marcucci, Antonella Scherillo, Carlo Cazzaniga, Massimiliano Clemenza, Daniela Di
+Martino
+PRELIMINARY RESULT OF INVESTIGATION OF ELEMENT COMPOSITION OF
+KYATHOS (6TH-4TH CENTURIES BCE) FROM THE NECROPOLIS VOLNA 1 ON THE
+TAMAN PENINSULA BY NEUTRON RESONANCE CAPTURE ANALYSIS ......................................... 394
+N. V. Simbirtseva, P. V. Sedyshev, S. T. Mazhen, A. M. Yergashov, I. A. Saprykina, R. A.
+Mimokhod
+NON-INVASIVE CHARACTERIZATION OF NURAGIC BRONZES THROUGH NEUTRON
+BASED TECHNIQUES ................................................................................................................................... 399
+M. Cataldo, F. Grazzi, A. Scherillo, A. Fedrigo, A. Depalmas, A. Canu, A. Brunetti
+ARCHAEOLOGY AND ARCHAEOMETRY OF MARBLES IN ROMAN CENTRAL
+ADRIATIC ITALY .......................................................................................................................................... 404
+Devi Taelman, Dimitri Van Limbergen, Fabrizio Antonelli
+ANALYTICAL DATA ON MARBLE SCULPTURES POLYCHROME TRACES (PALATINE
+HILL, ROME). ................................................................................................................................................. 410
+Maria Cristina Caggiani, Alessia Coccato, Silvia Borghini, Paolo Mazzoleni, Alfonsina
+Russo, Germana Barone
+
+COLORIMETRIC STUDY OF AYLA-AKSUM AMPHORAE FROM THE RED SEA COAST
+OF ERITREA ................................................................................................................................................... 415
+Abraham Zerai, Patrizia Davit, Monica Gulmini, Alessandro Re, Roberto Giustetto, Lara
+Maritan, Serena Massa, Chiara Mandelli, Yohannes Gebreyesus, Alessandro Lo Giudice
+PROJECT OF ELECTRONIC IDENTITY OF PAINTING ............................................................................ 420
+Giuseppe Schirripa Spagnolo, Lorenzo Cozzella, Fabio Leccese
+THE COLOURED STONES AND MARBLES DECORATING THE ODEION OF POMPEII.................... 425
+Fabrizio Antonelli, Lorenzo Lazzarini, Stefano Cancelliere, Luigi Buffone
+DAMAGE ASSESSMENT OF CULTURAL STONE HERITAGE IN RESERVOIR
+ENVIRONMENTS .......................................................................................................................................... 431
+Monica Alvarez De Buergo, Natalia Perez Ema, Rafael Fort, Manuel Garcia Rodriguez,
+María J. Varas, Mauro F. La Russa
+A PRELIMINARY STUDY ON BLACK CRUSTS FROM THE MONUMENTAL CEMETERY
+OF MILAN ....................................................................................................................................................... 435
+Valeria Comite, Donatella Bonelli, Paola Fermo
+CORATELLI MILL: MICRO-GEOPHYSICAL INVESTIGATIONS FOR STRUCTURAL
+DIAGNOSTICS ............................................................................................................................................... 440
+Lara De Giorgi, Giovanni Leucci
+GEOPHYSIVAL INVESTIGATIONS AT THE CATHEDRAL OF CATANIA ........................................... 444
+Giovanni Leucci, Lara De Giorgi, Giovanni Fragalá, Antonino Mazzaglia, Daniele Malfitana
+GIS FOR THE CATALOGING AND ENHANCEMENT OF SPECCHIE LOCATED IN THE
+UPPER SALENTO IN APULIA REGION (SOUTHERN ITALY) ................................................................ 448
+Maurizio Delli Santi
+GEOPHYSICAL INVESTIGATIONS, DIGITAL RECONSTRUCTION AND NUMERICAL
+MODELING AT THE BATIA CHURCH IN TORTORICI (MESSINA, SICILY):
+PRELIMINARY RESULTS ............................................................................................................................ 453
+Sebastiano D Amico, Emanuele Colica, Raffele Persico, Michele Betti, Salvatore Foti,
+Maurizio Paterniti Barbino, Luciano Galone
+PRELIMINARY GEOPHYSICAL SURVEYS AND ARCHAEOLOGICAL STUDIES INTO THE
+BURIED URBAN PLAN OF THE LUCANIAN SETTLEMENT OF CASELLE IN PITTARI .................... 457
+L. Capozzoli, G. De Martino, V. Lapenna, F. Perciante, E. Rizzo, M. L. Rizzo, A. Serritella,
+M. Scafuro, O. Voza
+PRELIMINARY STUDY FOR THE PRESERVATION OF TWO NATURAL HORNS FROM
+THE END OF THE 17TH CENTURY ............................................................................................................ 461
+Michela Albano, Giacomo Fiocco, Piercarlo Dondi, Francesca Tasso, Valentina Ricetti,
+Daniela Comelli, Maurizio Licchelli, Claudio Canevari, Marco Malagodi
+TOWARDS THE STUDY OF ALTERATION PATINAS ON THE MARBLE SURFACE OF A
+RENAISSANCE SCULPTURAL GROUP FROM THE MUSEUM OF ANCIENT ART
+(CASTELLO SFORZESCO, MILAN) ............................................................................................................ 467
+Valeria Comite, Mario Colella, Marco Malagodi, Giacomo Fiocco, Michela Albano, Silvia
+Marchioron, Paola Fermo
+ENVIRONMENTAL IMPACT ON HISTORICAL MONUMENTS: THE BLACK CRUSTS OF
+THE VENICE LAGOON ................................................................................................................................. 472
+Luciana Randazzo, Natalia Rovella, Silvia Muto, Fabrizio Antonelli, Elena Tesser, Mauro
+Francesco La Russa
+
+FRESCOED WALL CONDITIONS ASSESSMENT WITH NONINVASIVE GPR SURVEY:
+THE CASE OF THE CRYPT OF SAN FRANCESCO IN IRSINA (BASILICATA, SOUTHERN
+ITALY)............................................................................................................................................................. 477
+L. Capozzoli, M. P. Boccia, G. De Martino, F. T. Gizzi, M. Sileo, N. Masini
+L'AVVENTUROSO 1936 PROJECT: THE FIRST ANALYTICAL APPROACH TO PRINTED
+HISTORIC ITALIAN COMICS ...................................................................................................................... 481
+Giacomo Fiocco, Tommaso Rovetta, Michela Albano, Mario A. Lazzari, Curzio Merlo, Marco
+Malagodi
+AEROSOL TRACERS DEPOSITION IN A CONTROLLED FIELD EXPERIMENT: ROLE OF
+SURFACE BUILDING MATERIALS ............................................................................................................ 486
+Pierina Ielpo, Patrick Conry, Alessandra Genga, Riccardo Buccolieri, Livia Giotta,
+Francesca Di Nicola, Maria Lisa Vincenti, Ludovico Valli, H. J. S. Fernando, Silvana Di
+Sabatino
+A MULTIDISCIPLINARY APPROACH ABOUT STUDY OF ORGÈRES'S METAL FINDS (LA
+THUILE, AOSTA-ITALY): ARCHAEOLOGICAL EXCAVATION AND XRF ANALYSIS. .................... 491
+Chiara Maria Lebole, Greta Lupano, Sylvie Cheney, Giorgio Di Gangi
+MODULAR MA-XRF SCANNER POTENTIALITIES AND FURTHER ADVANCES .............................. 496
+S. A. B. Lins, M. Manso, G. E. Gigante, R. Cesareo, L. Tortora, P. Branchini, S. Ridolfi
+NON-DESTRUCTIVE SPECTROSCOPIC METHODS FOR GEM ANALYSIS: A SHORT
+REVIEW .......................................................................................................................................................... 501
+Simona Raneri, Germana Barone, Paolo Mazzoleni, Danilo Bersani
+INFN-CHNET MEETS CCR LA VENARIA REALE: FIRST RESULTS ..................................................... 507
+L. Sottili, L. Guidorzi, A. Mazzinghi, C. Ruberto, L. Castelli, C. Czelusniak, L. Giuntini, M.
+Massi, F. Taccetti, M. Nervo, A. Re, A. Lo Giudice
+IMAGING FOR CULTURAL HERITAGE AND ARCHAEOLOGY ............................................................ 512
+Paolo Triolo, Luciano Marras, Gloria Adinolfi, Rodolfo Carmagnola, S. Legnaioli, S. Raneri,
+V. Palleschi
+SANTA MARIA DEL FIORE CUPOLA CONSTRUCTION TOOLS: A NON-INVASIVE
+CHARACTERIZATION USING PORTABLE XRF ...................................................................................... 517
+Leila Es Sebar, Leonardo Iannucci, Sabrina Grassini, Emma Angelini, Marco Parvis, Andrea
+Bernardoni, Alexander Neuwahl, Rita Filardi
+ANCIENT BRICKS TECHNOLOGIES: IMPROVING THE BUILT HERITAGE
+CONSERVATION AT HIGH HUMIDITY AREAS ....................................................................................... 522
+Elena Pérez-Monserrat, Lara Maritan, Marie-Ange Causarano, Alejandra Chavarría, Gian
+Pietro Brogiolo
+POLYDIMETHYLSILOXANE (PDMS) /ZRO2-DOPED ZNO NANOCOMPOSITES AS
+PROTECTIVE COATINGS FOR STONE MATERIALS .............................................................................. 527
+Maduka L. Weththimuni, Marwa Ben Chobba, Ilenia Tredici, Maurizio Licchelli
+DIGITAL RECONSTRUCTION AND SCIENTIFIC ANALYSIS PRIOR THE RESTORATION
+OF TWO PAINTINGS BY MATTIA PRETI IN THE CHURCH OF THE IMMACULATE
+CONCEPTION OF SARRIA (FLORIANA, MALTA) ................................................................................... 532
+Sebastiano D'Amico, Valentina Venuti, Emanuele Colica, Giuseppe Paladini, Luciano
+Galone, Vincenza Crupi, Domenico Majolino, Sante Guido, Giuseppe Mantella
+
+THE THREE POLYCHROME MOSAICS OF S. ALOE QUARTER IN VIBO VALENTIA
+(CALABRIA, SOUTHERN ITALY): CHEMICAL CHARACTERIZATION OF GLASS
+TESSERAE ...................................................................................................................................................... 538
+Natalia Rovella, Elia Fiorenza, Donatella Barca
+THE ROLE OF GEOSCIENCES AND NON DESTRUCTIVE METHODS IN THE TECTONIC
+PROJECT ......................................................................................................................................................... 543
+Michela Ricca, Marco Ricci, Stefano Laureti, Mauro Francesco La Russa
+A MULTI-ANALYTICAL SURVEY FOR THE IDENTIFICATION OF THE RED AND
+YELLOW PIGMENTS OF COLOURED SHERDS DISCOVERED IN THE MONTE D'ORO
+AREA (ROME). ............................................................................................................................................... 548
+Vittoria Guglielmi, Paola Fermo, Martina Andreoli, Valeria Comite
+THE POTTERY PRODUCTION AT SUMHURAM (KHOR RORI, SULTANATE OF OMAN):
+AN ARCHAEOMETRIC STUDY ................................................................................................................... 554
+Stefano Pagnotta, Giulia Buono, Marco Lezzerini, Alexia Pavan, Carlotta Rizzo
+PETROGRAPHIC ANALYSIS TO UNDERSTAND ETRUSCAN ARCHITECTURAL
+TERRACOTTA'S TECHNOLOGY AND PROVENANCE: A STUDY IN PROGRESS. ............................. 559
+M. Fugazzotto, A. Stroscio, A. Bertino, G. Barone, A. Russo, P. Mazzoleni
+THERMOLUMINESCENCE DATING AND MICROSTRUCTURAL CHARACTERIZATION
+OF ARCHAEOLOGICAL CERAMIC SAMPLES FROM CORVINS CASTLE AREA ............................... 564
+Rodica-Mariana Ion, Radu Setnescu, Tanta Setnescu, Anca Irina Gheboianu, Gabriel
+Vasilievici, Sorin Tincu
+EFFECT OF AGE ON PINE WOOD MICROSTRUCTURE STUDIED BY MICRO-MRI AND
+DIFFUSION-NMR ........................................................................................................................................... 569
+Valeria Stagno, Sveva Longo, Silvia Capuani
+MULTICENTENNIAL REGIONAL OAK CHRONOLOGIES FOR NORTHERN ITALY: AN
+UPDATING...................................................................................................................................................... 574
+Nicoletta Martinelli
+THE TREE SPECIES OF PO VALLEY LOGBOATS.................................................................................... 578
+Alice Lucchini, Mauro Bernabei
+CHARACTERIZATION OF ETRUSCAN NON-VASCULAR CERAMIC FRAGMENTS ......................... 584
+Margherita Cantelli, Alberta Facchi, Francesca C. Izzo, Elisabetta Zendri
+MAY METAGENOMICS DISCLOSE THE HIDDEN SECRETS OF THE ANCIENT
+DAMAGED PARCHMENTS? ........................................................................................................................ 589
+Luciana Migliore, Nicoletta Perini, Annamaria Alabiso
+DISTINGUISHING COLOUR ALTERATION PROCESSES OCCURRED IN LATE
+PLEISTOCENE ANIMAL REMAINS. ........................................................................................................... 593
+Andrea Perez, Fabio Santaniello, Stefano Grimaldi, Stefano Gialanella
+DIFFERENCES BETWEEN ARCHAEOLOGICAL AND FORENSIC BURNED SAMPLES
+USING POWDER X-RAY DIFFRACTION (XRD) AND ATR-IR SPECTROMETRY ............................... 599
+Giampaolo Piga, Fabio Cavalli, Dario Innocenti, Eugénia Cunha, Stefano Enzo, David
+Gonçalves
+THE ROMAN BRIDGE OF CANOSA DI PUGLIA: A METROLOGICAL APPROACH ........................... 604
+Germano Germanò
+
+OPTICAL MICRO-PROFILOMETRY FOR SURFACE ANALYSIS AND 3D PRINTED
+REPLICA OF ARCHEOLOGICAL ARTEFACTS ......................................................................................... 610
+Sara Mazzocato, Giacomo Marchioro, Alessandra Menegazzi, Claudia Daffara
+OPERATIONAL METHODOLOGY FOR A HISTORICAL, CRITICAL AND VIRTUAL
+RECONSTRUCTION OF BAROQUE EPHEMERAL APPARATUSES. ..................................................... 616
+Margherita Antolini
+UPGRADE OF THE X-RAY IMAGING SET-UP AT CCR LA VENARIA REALE: THE CASE
+STUDY OF AN EGYPTIAN WOODEN STATUETTE ................................................................................. 622
+L. Vigorelli, A. Lo Giudice, T. Cavaleri, P. Buscaglia, M. Nervo, P. Del Vesco, M. Borla, S.
+Grassini, A. Re
+AN INNOVATIVE FLUORINATED POLYACRYLIC COATING FOR THE PROTECTION OF
+THE CULTURAL HERITAGE ....................................................................................................................... 628
+Eleonora Pargoletti, Valeria Comite, Valentina Sabatini, Paola Fermo, Marco Aldo Ortenzi,
+Hermes Farina, Giuseppe Cappelletti
+CORRELATION OF INDOOR AIR QUALITY AND STABLE CARBON ISOTOPE RATIO OF
+CO2 IN HISTORICAL MONUMENTS OF ITALY: A CASE STUDY ......................................................... 634
+Concetta Pironti, Maria Ricciardi, Antonio Proto
+BLACK CRUSTS GROWN ON VARIED STONE SUBSTRATA FROM HISTORICAL
+BUILDINGS UNDER DIFFERENT AIR QUALITY SCENARIOS (SE AND NW SPAIN) ........................ 639
+José Santiago Pozo-Antonio, Carolina Cardell, Valeria Comite, Paola Fermo
+CHEMICAL AND ISOTOPIC INVESTIGATIONS ON THE DETERIORATION OF THE
+MONUMENTAL COMPLEX OF S. PIETRO IN CORTE IN SALERNO (ITALY) CAUSED BY
+THE RISING WATERS................................................................................................................................... 644
+Maria Ricciardi, Concetta Pironti, Oriana Motta
+INDOOR AIR QUALITY MONITORING WITH STABLE CARBON ISOTOPE RATIO OF CO2
+IN MUSEUM ENVIRONMENTS: STUDY FOR THE LEONARDO DA VINCI'S LAST SUPPER ........... 649
+Oriana Motta, Concetta Pironti, Maria Ricciardi, Ezio Bolzacchini, Luca Ferrero, Chiara
+Rostagno, Raffaele Cucciniello, Antonio Proto
+Author Index
+
+#!%*@F7D@3F;A@3>A@87D7@57A@
+#7FDA>A9K8ADD5:37A>A9K3@6G>FGD3>7D;F397
+*D7@FAF3>K%5FA47D  
+
+
+
+
+  
+
+    
+
+  
+
+@97>3AE5A"3GD33DB7@F;7DA@6D73P@6D73>7A@AD3#;@G55;(AE3D;A,3>7@F;@;
+
+
+*%1!-.%/5 !#(%/0 % %,+(%79-%!*/(!8
+
+
+
+
+!7KIAD6E&3D3?7FD;5?A67>#63F3?3@397?7@F+,37D;3>B:AFA9D3??7FDK4;963F3
+
+
+   ##$ "'%% "! & )"$ $$
+"'& ! &   " %&'   &* ! &
+$ )"$ "  ""$&"! &)! &
+$""$"%&' !&!($%&*"
+#% , .$!&-  & "!&$'&"! %")% &
+,$"! &" - %"'&"! ## "$ & %&'* " &
+ ! & $& &""" ##$" 
+" !&"!"&&%'$(*)&&#$ &$
+$"!%&$'&"! " & %&$'&'$% ) $&$+%
+& %"
+  $""
+'!
+!"$ &"! "! #$"(%  " #&
+!"$ &"! %*%&  '%' "$ $!& #'$#"%%
+$"  "' !&&"! &" !&$#$&&"! !
+! !& " %*%& &+ & !" #& $(
+"' !&&"!"&!&"!&$&&)
+%'##*&$!$&%'$(*%
+! $$ "'& &" #$"(  & # "  &
+%&$'&'$% %& (% "! & $  &$
+ !%"! !"$ &"! $( $"  &  
+"!%&&'&% & %% "$ & "!%&$'&"! " & 
+"
+
+  $*(%+*%$
+*:7 ;@5D73E;@9>K GE7 A8  EGDH7K ?7F:A6E ;@
+3D5:37A>A9K :3E ?A6;8;76 F:7 FKB;53> 9D3B:;5
+6A5G?7@F3F;A@ 3BBDA35:  +@8ADFG@3F7>K  ;@8AD?3F;A@
+;EA8F7@6;E5A@@75F768DA?F:7D7EFA8F:73D5:37A>A9;53>
+63F3 7 9  D7BADFE ;?397E 6D3I;@9E 8DA? BD7H;AGE
+7J53H3F;A@ 53?B3;9@E A>6 ?3BE  *:7  63F3E7F ;E
+97@7D3>>K GE76 <GEF FA BAEFBDA6G57  H75FAD;3>
+;@8AD?3F;A@ FA 97@7D3F7 ADF:AB:AFAE AD FA 7JFD35F
+?73EGD7E 
+H7@;8F:;EIAD=8>AI3>>AIEFAA4F3;@355GD3F73@6:;9:
+D7EA>GF;A@ D7B>;53E A8 I:3F7H7D 3D5:37A>A9;53> A4<75F
+D3@9;@98DA?E?3>>8;@6;@9FA4;9?A@G?7@F?AEFA8F:7
+ ;@8AD?3F;A@ ;E EF;>> G@67DGE76 FA ?3@397 3 >3D97
+63F3E7F A8 :7F7DA97@7AGE 63F3 5A?;@9 8DA?
+3D5:37A>A9;53> D7E73D5: ;E 3 F3E= EF;>> :3D6 FA 47 83576
+I;F: 3 FD36;F;A@3> 3BBDA35:   #AD7 4DA36>K D7E73D5:7DE
+3FF7?BFFA;67@F;8K3FF:7479;@@;@9A8F:7;D3BBDA35:F:7
+47EFEA>GF;A@E:3D6I3D7EA8FI3D78ADF:7?AEF5ADD75F
+ 63F335CG;E;F;A@ 3@6 7>34AD3F;A@ BDA57EE 3F F:7 7@6
+F:7K3D7A4>;976FAABF;?;L7F:763F3E7F355AD6;@9FAF:7
+GE76 EA8FI3D7 3@6 ?3;@>K 355AD6;@9 FA F:7;D 6;887D7@F
+@776E7 9 D7E73D5:7JB>A;F3F;A@3@65A@E7DH3F;A@ 
+H7@;8):3E?36773E;7DFAB7D8AD?5A?B>7JEB3F;3>
+3@3>KE7E 7EB75;3>>K ;@ F:7 8;7>6 A8 D75A@EFDG5F;A@ A8 F:7
+
+
+
+220
+
+3@5;7@F >3@6E53B7 8AD F:7 3@3>KE;E A8 F:7 5A?BAE;F7
+3D5:37A>A9;53> 3D5:;F75FGD7E 3D7 @757EE3DK @7I FAA>E 3@6
+3BBDA35:7E 8G>>K  BDA434>K 8AD F:;E F3D97F F:7 47EF
+EA>GF;A@;EF:7#1 21 2 
+
+ 
+
+###
+
+
+);@57 F:7  E # ?7F:A6A>A9K :3E BDA9D7EE;H7>K
+7JB3@676;FE8;7>6A83BB>;53F;A@ #:3E477@67E;9@76
+3E ;@F79D3F7 EKEF7? 8AD F:7 B>3@@;@9 3@6 ?3@397?7@F A8
+F:7?A67D@5;H;>;@8D3EFDG5FGD7E124GFH7DKEAA@;F:3E
+475A?7 3@ ;@@AH3F;H7 FAA> 8AD F:7 3@3>KE;E A8
+3D5:37A>A9;53> 3@6 3D5:;F75FGD3> :7D;F397  @ B3DF;5G>3D
+F:7 # ;EFAD;53> # A887DE 36H3@576 EG997EF;A@E
+8AD F:7 3BB>;53F;A@ A8 F:7 # ?7F:A6A>A9K FA F:7
+BDA57EE7EA8?3@397?7@F?3;@F7@3@573@67@:3@57?7@F
+A8F:75G>FGD3>:7D;F39712 
+EF:7#:3E477@@AF67E;9@768ADF:73D5:37A>A9;53>
+D7E73D5:A@7A8F:7?3;@5:3>>7@97E;E:AIFA363BFF:;E
+3BBDA35: FA F:7 @776E A8 :;EFAD;53> 3@3>KE;E 3@6 8;DEF A8
+3>>:AIFAABF;?;L7F:763F3E7F;@AD67DFA3>>AI383EF
+3@6355GD3F7?A67>>;@9BDA57EE 
+*:7 # ;E 5:3D35F7D;L76 4K F:7 5A?4;@3F;A@ A8 F:7
+6;9;F3> EGDH7K I;F: F:7 B3D3?7FD;5 D75A@EFDG5F;A@ A8
+3D5:37A>A9;53> EFDG5FGD7E I;F: F:7;D B75G>;3D 3@6 A8F7@
+G@;CG77>7?7@FE;FD7BD7E7@FE34;9ABBADFG@;FKFA?3=7
+3H3;>34>7;@3H;DFG3>7@H;DA@?7@F3>>F:763F3D7>3F76FA
+3 E;@9>7 ?A@G?7@F  *:7 # 53@ 5A@F3;@ @AF A@>K
+EB3F;3> 63F3 4GF 3>EA AF:7D 67F3;>76 ;@8AD?3F;A@ B:AFAE
+6D3I;@9E 67E5D;BF;A@E 3@@AF3F;A@E 5A@57D@;@9 F:7
+?A@G?7@F AD E;@9>7 B3DF A8 ;F 1 21212  AD F:7
+3D5:37A>A9;53> D7E73D5: F:7 # D7BD7E7@FE 3 4;9
+D7BAE;FADK AD 3@ ;@8AD?3F;A@ EKEF7? 3>>AIE FA >;@=
+I:3F7H7D FKB7 A8 63F3 B3DF;5G>3D>K GE78G> FA ?3@397
+5A?B>7J3D5:;F75FGD7EAD4G;>6;@9E F5A@EF;FGF7EF:743E7
+A83D73EA@34>7FD3@EB3D7@F3@6H7D;8;34>7D75A@EFDG5F;A@
+A8I:3F7H7D3D5:37A>A9;53>7H;67@57E 
+*:7 EFD7@9F: A8 3 # 3BBDA35: >;7E ;@ F:7 34;>;FK FA
+H7D;8KF:7355GD35KA83>>D75AD676;@8AD?3F;A@3@6;@F:7
+34;>;FK FA ?3@397 F:7 >;87 5K5>7 A8 F:7 A4<75F  #
+EGBBADFE 3 FKB;53>>K ;@F7D6;E5;B>;@3DK 3BBDA35: 4K
+A887D;@9 EB75;3>;EFE GB63F76 3557EE;4>7 3@6 E:3D76
+;@8AD?3F;A@ 4K ?3=;@9 :7F7DA97@7AGE 3@6
+?G>F;6;E5;B>;@3DK 63F3 3H3;>34>7 F:7 EKEF7? 835;>;F3F7E
+5A>>34AD3F;A@  *:7 # ?A67> F:7D78AD7 6A7E @AF
+D7BD7E7@F 3 ?7F:A6 8AD ?3@39;@9 3@6 6;EB>3K;@9 F:D77
+6;?7@E;A@3> 63F3 4GF ;F ;E 3 E73D5:34>7 ;@8AD?3F;A@
+
+#!%*@F7D@3F;A@3>A@87D7@57A@
+#7FDA>A9K8ADD5:37A>A9K3@6G>FGD3>7D;F397
+*D7@FAF3>K%5FA47D  
+
+
+
+EKEF7? ;@ I:;5: F:7 CG3@F;FK 3@6 CG3>;FK A8 F:7 &37EFG? 3@6 F:7 +@;H7DE;FK A8 $3B>7E N"P%D;7@F3>7O FA
+D77J3?;@7F:7%*.0(A8&37EFG? +@8ADFG@3F7>KF:;E
+;@8AD?3F;A@9G3D3@F77E;FED7>;34;>;FK 
+*:7 ;673 A8 ;?B>7?7@F;@9 3 # EKEF7? 8AD 3@ 3D73 :3E 477@ 7J53H3F76 E7H7D3> F;?7E 4GF F:7D7 I3E @A
+3D5:37A>A9;53> 5A@F7JF EF7?E 8DA? F:7 @776 FA 5D73F7 3 6A5G?7@F3F;A@ B:AFAE 6D3I;@9E EFD3F;9D3B:;5 D7BADFE
+5A?B>7F7 3@6 3557EE;4>7 63F3 5A@F3;@7D ;@ I:;5: 7H7DK 3H3;>34>7 8AD F:7E7 ;@H7EF;93F;A@E  GDF:7D?AD7 F:7
+E;@9>7 3EB75F A8 F:7 3EE7F 53@ 47 ;??76;3F7>K ?367 ?3<AD;FK A8 F:7 I3>>E 3D7 BD7E7DH76 8AD 87I 57@F;?7FD7E
+3H3;>34>7 8AD 6;887D7@F BGDBAE7E 3E E3879G3D6 8DG;F;A@ 3@6 F:7 E;L7E A8 F:7 DAA?E 3D7 @AF 3>I3KE 5>73D 
+?3;@F7@3@57 7@:3@57?7@F 3@6 BDAF75F;A@ 35F;H;F;7E 3@6 *:7D78AD7 FA 47FF7D ;@H7EF;93F7 F:7 5:DA@A>A9K F:7
+8AD 8GFGD7 ;@H7EF;93F;A@E  *:7 9A3> ;E FA A4F3;@ 3 7JF7@E;A@ 3@6 F:7 AD93@;E3F;A@ A8 F:7 ;@@7D BG4>;5 3@6
+?3@397?7@F EKEF7? 34>7 FA 9G;67 3@K D7EFAD3F;A@E AD BD;H3F74G;>6;@9EA8F:7%*.0(3@7I3BBDA35:43E76A@
+F:7# :3E 477@ E7F GB  *:7 3;? I3E FA 677B7@ F:7
+H3>AD;L3F;A@BDA57EE 
+E3>D736K?7@F;A@76F:7#:3E477@;?B>7?7@F76;@ =@AI>7697A8F:7I3>>EEFD3F;9D3B:K;@AD67DFA7>34AD3F7
+F:7 5A@F7JF A8 F:7 ?AEF D757@F 7@9;@77D;@9 BD35F;57 3@6 D75A@EFDG5F;H7 :KBAF:7E7E 3@6 678;@7 5:DA@A>A9;53>
+A@>K ;@ F:7 >3EF 675367 ;F :3E 477@ 3BB>;76 FA :;EFAD;53> B:3E7E 
+4G;>6;@9E F:;E 8;7>6 A8 ;@F7D7EF EA 53>>76 # :3E *:7 %*.0(  63F7E 435= FA F:7 >3F7D7BG4>;53@ B7D;A6
+5A@57@FD3F76 3@K 788ADF 3@6 E5;7@F;8;5 5A@E;67D3F;A@E A@ I;F:E7H7D3>D7?3=7E3FF:77@6A8D7BG4>;53@3973@6F:7
+F:7;EEG7PE?7F:A6F:3F;E:AIFA3BB>KF:;E3BBDA35:FA 479;@@;@9A8;?B7D;3>397 *:73D73:3E3$ADF: )AGF:
+AD;7@F3F;A@3@6;F;E34AGF ?>A@93@6?I;6F:; 7 
+F:73D5:;F75FGD3>:7D;F397 
+ DA?3@ /0.  *:7 %*.0( ;E ?3D=76 FA F:7 $ADF: 4K
+D7CG7@F>KF:73@3>KE;EA8:;EFAD;53>4G;>6;@9E;@F79D3F76
+I;F:F:7EFG6KA83@5;7@F5A@EFDG5F;H7F75:@;CG7E3@6F:7 F:7 !0)*0.A3@6FAF:7)AGF:4KF:7A DA363J;E 
+5A?B3D;EA@ A8 5A7H3> 76;8;57E BDAH;67E ;@8AD?3F;A@ @F:7@ADF:7D@B3DFF:7D7;E3>3D97 +)0.I;F:36AG4>7
+3>>AI;@9 FA D75A@EFDG5F ?AD7 AD >7EE BD75;E7>K F:7 3FD;G? 3@6 B7D;EFK>7 3@6 38F7D 3 E>;9:F H3D;3F;A@ ;@
+AD;9;@3>BDA<75FA8F:767E;9@7DADA8F:73D5:;F75F @F:7 3>F;FG67 F:7D7 3D7 F:7 DAA?E A8 3 /$!-)! 4G;>F A@ F:7
+# 3BBDA35: F:7  EGDH7K D7BD7E7@FE 3@ A4<75F;H7 7697 A8 3 >3D97 AB7@ EB357 ;67@F;8;34>7 3E F:7 ,(!./-
+EF3DF;@9 BA;@F 8AD 3@K 8GDF:7D ;@F7DBD7F3F;A@ A8 F:7 FAI3D6)AGF:F:7D7;E3@AF:7D:AGE7I;F:F:73FD;G?3@6
+F:7 B7D;EFK>7 5>73D>K H;E;4>7 I:;>7 F:7 >;?;FE A8 3@AF:7D
+?A@G?7@F 
+@F:73D5:37A>A9;53>8;7>6A8F7@F:7EFDG5FGD7E3D7EFAD76 BAEE;4>7 +)0.>A53F76;@F:7EAGF:7D@EFD;BA8F:74>A5=
+A@>K8AD87I57@F;?7F7DEAD3F8AG@63F;A@>7H7>F:7D78AD7 3BB73D>7EEBD75;E7 *:;E3D73:3E@7H7D477@EFG6;763@6
+F:7 E;?G>3F;A@ AD F:7 H;DFG3> D75A@EFDG5F;A@ 3D7 BG4>;E:76 7J57BF 8AD ?;@AD D7EFAD3F;A@ 3@6 ?3;@F7@3@57
+3BBDA35:7E GE76 FA :KBAF:7E;L7 F:7 E:3B7 F:7 E;L7E 3@6 AB7D3F;A@E12 
+F:7 7JF7@E;A@ A8 F:7 4G;>6;@9  DA? F:;E BA;@F A8 H;7I E ?7@F;A@76 F:7 6A5G?7@F3F;A@ A8 F:7 7J53H3F;A@E ;E
+#;E35A@F3;@7D5A>>75F;@93>>3H3;>34>763F3?3=;@9 ?AEF>K >AEF 3@6 F:;E ?3=7E ;F ;?BAEE;4>7 FA D75A@EFDG5F
+?AD7FD3@EB3D7@F3@KD75A@EFDG5F;H7:KBAF:7E;E *AD735: F:7>;87A8F:;EB3DFA8F:73@5;7@F5;FK @F:734E7@57A8
+F:;E D7EG>F ;F ;E ;?BADF3@F FA 678;@7 5ADD75F>K 3 I:3F7H7DEFD3F;9D3B:;53>63F3I:;5:5AG>6BDAH;67GE78G>
+?7F:A6A>A9;53> 3BBDA35: 3@6 3 BD75;E7 IAD=8>AI 3>EA ;@8AD?3F;A@ 34AGF F:7 9D73F FD3@E8AD?3F;A@E A55GDD76 ;@
+F:73D7347FI77@F:7(A?3@3@6"3F7@5;7@FB7D;A6E3@
+355AD6;@9FAF:75:AE7@EA8FI3D7 
+*A5>3EE;8KF:75A?B>7J;FKA8F:73D5:37A>A9;53>7H;67@57 ;@@AH3F;H7?7F:A6:3E477@F7EF76 
+I;F:;@3F:D776;?7@E;A@3>D7BD7E7@F3F;A@;F;E@757EE3DK *A 5A?4;@7 3>> BAEE;4>7 ;@8AD?3F;A@ 5A?;@9 8DA? F:7
+FA ;67@F;8K 7H7DK E;@9>7 7>7?7@F F:3F 5A?BAE7E ;F F:;E %*.0( 3@ # 3BB>;53F;A@ :3E 477@ 5A@E;67D76 F:7
+BDA57EE3>>AIEFAD75A9@;L7F:7EFDG5FGD7F:78G@5F;A@3@6 3BBDA35::3E477@6;H;676;@6;887D7@FEF7BE8;DEFA83>>3
+F:7 >7H7> A8 67F3;> FA 47 35:;7H76 ;@ F:7 ?A67>;@9 6DA@7EGDH7K 8AD F:7 35CG;E;F;A@ 3@6 BDA57EE;@9 A8 97A
+D787DD76 4; 3@6 F:D776;?7@E;A@3> 63F3 7EE7@F;3> 8AD F:7
+B3D3?7FD;5 B:3E7  *:7 3D5:37A>A9;53> D73>;FK ?GEF 47 D7
+5D73F76 ;@ # F:DAG9: F:7 678;@;F;A@ A8 F:7 A4<75FE  EG557EE;H7 B3D3?7FD;5 ?A67>>;@9 B:3E7  *:7@ 355AD6;@9
+*:7D78AD7 478AD7 EF3DF;@9 F:7 ?A67>>;@9 ;F ?GEF 47 FA 3 FD36;F;A@3> 3BBDA35: 3>> F:7 6;887D7@F 5A@EFDG5F;H7
+7EF34>;E:76 I:3F ;E 3 # A4<75F ;@ I:3F F7D?E A8 F75:@;CG7E 6A5G?7@F76 ;@ F:7 %*.0( I7D7 ;67@F;8;76
+?A67>;@93@6;@8AD?3F;A@;F53@47A4F3;@763@63FI:3F F:3@=EFAF:74;4>;A9D3B:K3@6FAF:75A?B3D;EA@I;F:F:7
+>7H7> A8 67F3;> ;F ?GEF 47 5A6;8;76  *:7 5A@F7JF ;E F:GE ?3EA@D;7E7J;EF;@9;@AF:7DB3DFA8F:7E;F7 
+6;H;676 ;@FA ;FE 5A@EF;FGF;H7 7>7?7@FE AD93@;L76 ;@FA 
+53F79AD;7E 3@6 FKB7E 3@6 3EE;9@76 FA 3 5:DA@A>A9;53>
+B:3E7  F F:7 7@6 A8 F:7 E7?3@F;5E B:3E7 F:7 ?A67>;@9 ,  *'+)*%$$#*%%"%"
+&&(%
+EF7B53@47EF3DF76 
+
+@ F:7 >3EF 675367 3D5:37A>A9;53> D7E73D5: :3E 479G@ FA
+F3=736H3@F397A8@7ID7?AF7E7@E;@9?7F:A6A>A9;7E3@6
+  *))*+/* %
+FAA>E3E+,+@?3@@767D;3>,7:;5>7E @B3DF;5G>3D
+&)*+#
+F:7 3BB>;53F;A@E A8 37D;3> B:AFA9D3??7FDK 3D7 7HA>H;@9
+F:3@=EFAF:7CG;5=67H7>AB?7@FA8+,F75:@A>A9K8AD
+
+)F3DF;@9 8DA? F:7E7 BD7?;E7E ;@
+ :3E 479G@ 3 6A5G?7@F3F;A@3@6E;F7?3BB;@91212 
+5A>>34AD3F;A@ 47FI77@ F:7 D5:37A>A9;53> &3D= A8
+
+
+
+221
+
+#!%*@F7D@3F;A@3>A@87D7@57A@
+#7FDA>A9K8ADD5:37A>A9K3@6G>FGD3>7D;F397
+*D7@FAF3>K%5FA47D  
+
+
+
+);@57 F:7 D5:37A>A9;53> &3D= A8 &37EFG? :36 8AD F:7
+3D73A@>K36;9;F3>?3BD7H;E763@697AD787DD76;@
+
+3 6DA@743E76 B:AFA9D3??7FDK EGDH7K A8 F:7 %*.0( I3E
+B>3@@766GD;@9F:7EG??7D3@6F:73GFG?@A8
+F:7
+EGDH7K :36 FA 3>>AI F:7 GB63F;@9 A8 F:7 ?3B A8 3>> F:7
+EFDG5FGD7E EF;>> H;E;4>7 ;@ F:7 3D73 3@6 FA ;?B>7?7@F F:7
+#3BB>;53F;A@ 
+*:7 %*.0(  ;E 3BBDAJ;?3F7>K 7JF7@676
+ EC?
+3@6;F;E>A53F76;@3@3D73A8F:7B3D=D7>3F;H7>K?3D9;@3>
+FA F:7 H;E;F DAGF7 3@6 8AD F:;E D73EA@ A8F7@ 5A?B>7F7>K
+5AH7D76 4K H797F3F;A@  K 5A@E;67D;@9 F:7 ?3@397?7@F
+F:75GD7A8F:73D5:37A>A9;53>B3F:E?3674KF:7&3D=3@6
+F:7 H3D;34>7 8>AI A8 H;E;FADE F:7 EGDH7K B:3E7 I3E @AF
+5A@F;@GAGE8ADF:;ED73EA@F:78>;9:FEI7D7B7D8AD?76;@
+6;887D7@FB7D;A6EA8F:7K73D 
+DA? #3K FA %5FA47D
+ E7H7D3> 8>;9:FE I7D7 53DD;76
+AGF;@AD67DFAF7EFF:747EFE7@EAD3>F;FG673@6D7EA>GF;A@ 
+DA?F:76;887D7@F63F3E7F35CG;D76I;F:3 &:3@FA?
+FIA BDA<75FE I7D7 5:AE7@ 3>;9@76 3@6 AH7D>3BB76 I;F:
+&;J?3BB7D 
+*A E53>7 3@6 DAFAFD3@E>3F7 F:7 BDA<75FE E7H7D3> DAG@6
+A@FDA> &A;@FE 73E;>K 67F75F34>7 ;@ F:7 37D;3> B:AFAE
+I7D7?73EGD76I;F:3*AF3>)F3F;A@ ?A@9F:7?F:7D7
+I7D7 FIA BA;@FE I;F: =@AI@ 5AAD6;@3F7E 8DA? F:7 &)
+@7FIAD= EGBB>;76 4K F:7 &3D= 4K 5A@@75F;@9 AGD &E
+I;F: F:7 &3D= @7FIAD= ;F I3E BAEE;4>7 FA 97AD787D F:7
+37D;3> EGDH7K 3@6 5:75= F:7 355GD35K A8 F:7
+?73EGD7?7@FE FF:77@6A8F:7BDA57EE35A>AGD76BA;@F
+5>AG6A8  ?;>>;A@BA;@FEI3E97@7D3F76 
+DA? F:7 8;@3> 97AD787D7@576 ?A67> 3 :;9:D7EA>GF;A@
+ADF:AB:AFA :3E 477@ 7JFD35F76 FA 6D3I F:7 EFDG5FGD7E
+H;E;4>7 ;@ F:7 >3EF EGDH7K 4GF @AF D75AD676 ;@ F:7 ?3B
+BDAH;6764KF:7&3D= *:737D;3>EGDH7KI3E8A>>AI764K
+3 F7DD7EFD;3> B:AFA9D3B:;5 53?B3;9@ 3;?76 3F F:7
+53F3>A9G;@9 A8 F:7 ?3;@ 4G;>6;@9E A8 F:7 %*.0( F:7
+B:AFA9D3B:;5 35CG;E;F;A@ :3E 477@ 8G@5F;A@3> FA F:7
+3@@AF3F;A@ A8 EA?7 8G@63?7@F3> ;@8AD?3F;A@ EG5: 3E
+5A?BAE;F;A@>7H7>A8679D363F;A@3@6BD7E7DH3F;A@A8F:7
+I3>>E 
+
+, 
+
+*##&"#$**%$
+
+
+AD F:7 5D73F;A@ A8 F:7 # A8 F:7 %*.0(  A8
+&37EFG?;FI3E5:AE7@GFA67E=(7H;F *:7BA;@F5>AG6
+97@7D3F764KF:7+,I3E;?BADF76;@FAF:7EA8FI3D7FA
+5:75= F:7 97A?7FD;7E ;@ 5A?B3D;EA@ I;F: F:7 - 8;>7
+BDAH;6764KF:7&3D= ADF:75D73F;A@A8F:7FABA9D3B:;5
+EGD8357 F:7 5>AG6 I3E E;?B>;8;76 ;@ >AG6 A?B3D7
+E3H76 ;@ FJF 8AD?3F 3@6 F:7@ >A3676 ;@FA F:7 BDA<75F
+F:DAG9:F:7ND73F7)GD83578DA??BADFO5A??3@6 8;9 
+  *:7 63F3 BDAH;676 4K F:7 FABA9D3B:;5 EGD8357
+FA97F:7D I;F: F:7 BA;@F 5>AG6 3@6 F:7 ;@8AD?3F;A@
+35CG;D76 F:DAG9: 3D5:37A>A9;53> D7E73D5: 3@6 3@3>KE;E
+3>>AI F:7 678;@;F;A@ A8 ND787D7@57 >7H7>EO  *:7E7 >7H7>E
+3D7 8G@63?7@F3> 5A@EFD3;@FE I;F:;@ I:;5: F:7 EA8FI3D7
+IAD=E 3@6 F:DAG9: I:;5: ;F ;E 34>7 FA BDA<75F B>3@ 3@6
+E75F;A@H;7IE 
+
+
+
+222
+
+E GFA67E= (7H;F ;E 3 EA8FI3D7 43E76 A@ >;4D3D;7E A8
+5A@F7?BAD3DK5A@EFDG5F;A@A4<75FEF:7GE7A8F:7#
+;@ F:7 3D5:37A>A9;53> 8;7>6 D7CG;D7E 8;DEF A8 3>> F:7
+5D73F;A@A8EB75;8;5>;4D3D;7EA8A>63D5:;F75FGD3>7>7?7@FE 
+*:;E B:3E7 FD36;F;A@3>>K 53>>76 )53@ FA # ;E @AF
+3GFA?3F76 @AD E;?B>7 E;@57 ;F ;@HA>H7E F:7 678;@;F;A@ A8
+F:7 E7?3@F;5E G@67D>K;@9 F:7 4G;>6;@9E 3@6 ;FE
+5A@EFDG5F;H7F75:@;CG7E12 
+
+
+
+%#6+%*/(+0 /!--%*)+ !(*  #-,$%
+.!+"/$!%*.0(%* 1%!2+"!1%/
+
+%@7A8F:7?3;@5:3>>7@97E;@F:73BB>;53F;A@A8#FA
+3D5:37A>A9;53> E;F7 ;E F:7 ;67@F;8;53F;A@ A8 F:7 A4<75FE FA
+47B3D3?7FD;L7F:3F;EF:7E;@9>7N4D;5=OAD43E7G@;FA@
+I:;5:FA4G;>6F:7:;7D3D5:KA8F:76;887D7@F3D5:;F75FGD3>
+7>7?7@FE @F:;EI3K;F;EBAEE;4>7FA678;@7F:7E7?3@F;5
+A8 F:7 4G;>F 3@6 ;@ F:7 E3?7 F;?7 F:7 "7H7> A8 7F3;>
+"%A8F:73D5:37A>A9;53>3@3>KE;E 
+@ F:7 53E7EFG6K NI3>>O A4<75FE :3H7 477@ ;67@F;8;76 FA
+D7BD7E7@F ;@ B3D3?7FD;5 ?A67>;@9 F:7 7@F;D7 I3>> A8 3
+DAA? 3E ;F ;E ;@ 5GDD7@F EF3F7  *:7 5:3D35F7D;EF;5E A8 F:7
+6;887D7@F;@F7DH7@F;A@E B:3E7EA8>;87A8F:7A4<75F I3>>3D7
+6;EF;@5F F:3@=E FA F:7 ;@8AD?3F;A@ EFDG5FGD7  *:7
+5:DA@A>A9K ;E 3@@AF3F76 ;@ 3 8;7>6 676;53F76 FA F7?BAD3>
+D787D7@57E F:;E H3>G7 53@ 7JBD7EE F:7 5:DA@A>A9;53>
+B7D;A6 A8 F:7 5A@EFDG5F;A@ A8 F:7 7@F;FK 3@6 ;FE 67
+8G@5F;A@3>;L3F;A@  *:7 E;@9>7 EFD3F;9D3B:;5 G@;FE F:7
+3@3>KE;E A8 679D363F;A@ AD F:7 D75A@EFDG5F;A@ A8
+675AD3F;H7 EKEF7?E <GEF FA 9;H7 3 87I 7J3?B>7E 3D7
+6;EF;@9G;E:76 3@6 3@@AF3F76 ;@ EB75;3> H;7IE >;@=76 FA
+F:7 EB75;8;5 A4<75F 3@6 F:7D78AD7 73E;>K D753>>76 8AD
+;@EB75F;A@3@6GB63F;@9 
+%@ F:7 43E;E A8 F:7 BA;@F 5>AG6 E;@9>7 3D5:;F75FGD3>
+7>7?7@FE I3>>E 6AADEF7BE B3H7?7@FE 5A>G?@E
+B;B7>;@7E 7F5  I7D7 ?A67>>76 3@6 3EE;9@76 FA EB75;8;5
+N83?;>;7EO355AD6;@9FAF:7(7H;F53F79AD;7EF:7E7A4<75FE
+I7D7 B3D3?7F7D;L76 4K 678;@;@9 F:7;D 6;?7@E;A@E 3@6
+F:7;DH3D;3F;A@43E76A@EB75;8;76?73EGD7?7@FEA4F3;@76
+4KF:7EFG6KA8>A53>F75:@;CG7E8;9   
+
+
+#!%*@F7D@3F;A@3>A@87D7@57A@
+#7FDA>A9K8ADD5:37A>A9K3@6G>FGD3>7D;F397
+*D7@FAF3>K%5FA47D  
+
+
+
+, 
+
+
+%#6.+*-4%*(+'.0%(/. +&!/* 
+/!3/0-! 
+
+*:7 EA8FI3D7 3EEA5;3F7E F:7 ?A67>>;@9 A8 B3D3?7FD;5
+A4<75FEI;F:F:76D38F;@9A8F34>7EF:3F7JB>3;@F:7EB75;8;5
+BDAB7DF;7EA8F:77>7?7@FE;@F:7?A67>F:7E7F34>7E53@
+47 ?A6;8;76 4K 366;@9 B3D3?7F7DE 3@6 735: B3D3?7F7D
+53@ 47 8;>F7D76  #AD7AH7D F:7 &DAB7DF;7E F34 A8 735:
+?A67> A4<75F 53@ 47 7@D;5:76 I;F: ;@8AD?3F;A@ F:DAG9:
+7JF7D@3> >;@=E 7 9  B:AFAE 34AGF 679D363F;A@ 3@3>KE;E
+3D5:;H7 ?3F7D;3> F7JFE 63F343E7E A8 6;887D7@F @3FGD7 3@6
+7H7@67F3;>76EGDH7KE8;9  
+
+
+
+%#6$+/+#-))!/-%%)#!(%*'! /+/$! +&!/
+
+
+
+*:7 3D5:37A>A9;53> 5A@F7JF A8 F:7%*.0(  A8 &37EFG?
+3>>AI76FAF7EF3?7F:A6A>A9;53>IAD=8>AIF:3FEF3DF8DA?
+3  63F3 35CG;E;F;A@ 4K 6DA@7 3@6 7@676 FA F:7
+B3D3?7FD;5?A67>>;@9I;F:F:7678;@;F;A@A83@;@F79D3F76
+63F343E78AD;@8AD?3F;A@?3@397?7@F 
+*:7IAD=B;B7>;@753@476;H;676;@FAF:D77?3;@B:3E7E
+BD7?A67>>;@9B:3E7F:3F;@HA>H76F:7678;@;F;A@3@6
+53F3>A9G;@9 A8 3D5:37A>A9;53> A4<75FE 5A@EFDG5F;A@
+F75:@;CG7E3@6?3F7D;3>E
+F:7?A67>>;@9B:3E7F:3F5A@57D@76F:75D73F;A@;@FA
+(7H;F EA8FI3D7 A8 3D5:37A>A9;53> B3D3?7FD;5 83?;>;7E
+I:AE7 97A?7FD;5 355GD35K I3E 5A@EF3@F>K 5:75=76
+F:DAG9:F:7BA;@F5>AG6BDAH;674KEGDH7KE
+ M F:7 B:3E7 A8 F:7 3FF35:?7@F A8 3@3>KE7E ;@8AD?3F;A@
+34AGF F:7 I3>>PE 5A?BAE;F;A@ EF3F7 A8 5A@E7DH3F;A@ 3@6
+FKBA>A9K97@7D3>>KBDAH;6;@98DA?7JF7D@3>D7BADFE7 9 
+B:AFA9D3??7FDK?3EA@DK3@6679D363F;A@E:77FE 
+*:7D7EG>F;E3CG7DK34>73@68>7J;4>763F35A@F3;@7DF:3F
+53@ 47 GE76 4K 6;887D7@F GE7DE 8AD F:7 FKB;53>
+3D5:37A>A9;53> D7E73D5: AD 8AD F:7 ?3@397?7@F 3@6
+H3>AD;E3F;A@A8F:73D5:37A>A9;53>E;F7 
+GD;@9 F:7 7>34AD3F;A@ B:3E7E F:7 ;EEG7 A8 "%E ; 7 
+7H7>AB?7@F "7H7>E AD "7H7>E A8 7F3;> 43E76 A@
+?7D;53@ AD F3>;3@ >79;E>3F;A@ :3E 477@ 366D7EE76 
+"%E I:;5: 7EF34>;E: F:7 679D77E A8 355GD35K ;@ F:7
+H;DFG3> D7@67D;@9 A8 F:7 A4<75F ;@ # ?GEF 47
+D767E;9@768ADF:73D5:37A>A9;53>5A@F7JF 
+@ F:7 3D5:37A>A9;53> 8;7>6 ;@6776 F:7 >7H7> A8 67F3;> A8
+3@3@5;7@FA4<75F;E>;@=76FA;FE5:DA@A>A9;53>B:3E73@6
+;FEEF3F7A85A@E7DH3F;A@I:;5:;@H;DFG3>D7BDA6G5F;A@3D7
+A8F7@ 6;88;5G>F FA 5>3EE;8K 3E D73> >7H7>E A8 67F3;> 8AD
+?A67>;@9  @ AGD 53E7 I7 :3H7 5:AE7@ FA 7@:3@57 F:7
+;@8AD?3F;A@ E;67 A8 F:7 # EKEF7? 3@6 ;67@F;8K
+;@5D73E;@9 679D77E A8 67F3;> ;@ F:7 D7@67D;@9 A8 #
+A4<75FE 43E76 A@ F:7 ;@8AD?3F;A@ D7>3F76 FA F:7?
+?3EA@DK EFD3F;9D3B:;5 G@;FE 53D6E 3@3>KL7E 53DD;76 AGF
+A@ F:7 I3>>E 3D5:;H7 6A5G?7@FE B:AFA9D3B:;5 EGDH7K
+7F5  
+@ F:7 N3D5:;F75FGD7O E75F;A@ A8 F:7 EA8FI3D7 @7I
+N83?;>;7EO :3H7 477@ E7F 3EEA5;3F76 I;F: 7J;EF;@9 I3>>
+FKB7E 3H3;>34>7 ;@ (7H;FPE >;4D3D;7E  *:7@ F:7E7 83?;>;7E
+:3H7 477@ 3EEA5;3F76 I;F: F:7;D AI@ EB75;8;5
+5:3D35F7D;EF;5EF:75A@EFDG5F;A@?3F7D;3>EI7D7;@E7DF76;@
+F:7 )FDG5FGD7 F34 3E I7>> 3E F:7 ;@F7D@3> 5A?BAE;F;A@ A8
+F:7 I3>> I3E D75D73F76 8;9    *:7 ?A67>>;@9 ;@HA>H76
+F:7 5A@EF3@F EGBBADF A8 F:7 BA;@F 5>AG6 8AD F:7 BD75;E7
+D75D73F;A@A8F:7BDA8;>7EA8F:7;@6;H;6G3>I3>>E 
+
+
+
+%#6$!-)(,$+/+,(*+"/$!%*.0(%*.!-/! +*/$!
+/!--%*)+ !(!(+2/$!,+%*/(+0 * /$!#-,$%
+.!%* %* 1%!2+"!1%/
+
+
+
+()+"*)
+
+223
+
+#!%*@F7D@3F;A@3>A@87D7@57A@
+#7FDA>A9K8ADD5:37A>A9K3@6G>FGD3>7D;F397
+*D7@FAF3>K%5FA47D  
+
+
+
+
+
+%#6-)!/-%)+ !((%*#+" !+-/%1!+&!/ /$!
+-!/%+*+")-(!/$-!.$+( 
+
+,  %$"+)%$)
+D5:37A>A9;53> 7J53H3F;A@E F:3F FAA= B>357 ;@ F:;E 3D73
+>78FE53D573@6;@355GD3F76A5G?7@F3F;A@ *:;E53GE76F:7
+>AEE A8 F:7 EFD3F;9D3B:;5 ;@8AD?3F;A@ 3E I7>> 3E A8 F:7
+D7?AH76 >3F7DA?3@ EFDG5FGD7E  *:;E B3DF;5G>3D 5A@6;F;A@
+D7CG;D76 3 67F3;>76 3@3>KE;E A8 F:7 I3>>E FA ;67@F;8K F:7
+D7>3F;A@E:;BE 3?A@9 F:7 4G;>6;@9E GE78G> FA BDAH;67 3
+D75A@EFDG5F;A@A8F:7%*.0(>;873@6;FE5:3@97EAH7DF;?7 
+A@FD3D;>K8DA?F:7FD36;F;A@3>#53E7EFG6;7E;@F:7
+3D5:37A>A9;53> 5A@F7JFE >;=7 F:7 %*.0(  A8 &37EFG?
+F:7 5D73F;A@ A8 EF3@63D6 >;4D3D;7E :3E FA 47 43E76 A@ F:7
+7J;EF;@9 3D5:;F75FGD3> 7>7?7@FE 3@6 ?3EA@D;7E  *:;E
+3BBDA35: ?3=7E F:7 ?A67>>;@9 B:3E7E B3DF;5G>3D>K
+5A?B>7J E;@57 F:7 97A?7FD;53> 873FGD7E 3D7 >;@=76 FA 3
+H7D;8;34>73@6D7>;34>7?73EGD7?7@FE3@6B3D3?7F7DE 
+*:7 B3B7D F:DAG9: F:7 53E7 EFG6K A8 &37EFG? :3E
+:;9:>;9:F76:AI;F;EBAEE;4>7FA3BB>K3#3BBDA35:FA
+3@3D5:37A>A9;53>5A@F7JF4KEF3DF;@98DA?F:75D73F;A@A8
+3D5:37A>A9;53> 83?;>;7E D7>3F76 FA F:7 I7>>=@AI@
+5A@EFDG5F;A@FKB7EA8(A?3@3@6"3F7@5;7@FF;?7E *:7
+9D73FH7DE3F;>;FKA8F:763F343E7;@F7D8357EA8F:7EA8FI3D7
+3>>AIE FA 5GEFA?;L7 F:7 53D6E 4K ;@E7DF;@9 ?AD7AH7D
+6A5G?7@F3F;A@ EF3@63D6E A8 3D5:37A>A9;53> D7E73D5:  F
+ABF;?;L7E F:7 ?A67>>;@9 A8 F:7 EFDG5FGD7E FA 3@
+;@F7D?76;3F7 "A >73H;@9 F:7 ?AEF 67F3;>76
+6A5G?7@F3F;A@ FA F:7 3@@AF3F;H7 8G@5F;A@E A8 F:7 E;@9>7
+;@EF3@57 3>>AI;@9 F:7 5A@@75F;A@ A8 ?G>F;B>7 63F3
+7JF7@E;A@E  *:;E B3D3?7FD;5 EKEF7? 475A?7E 3@
+;@F7D35F;H73@6;@F7DAB7D34>75A@F3;@7DA83D5:37A>A9;53>
+97A?7FD;53@67@H;DA@?7@F3>;@8AD?3F;A@?G5:?AD7
+BAI7D8G>A83)3BB>;53F;A@ 
+*7EF;@9 F:7 # EKEF7? ;@ 3@ 3D5:37A>A9;53> 5A@F7JF
+?AH7EF:7G;>6;@9@8AD?3F;A@#A67>>;@9?7F:A6A>A9K
+47KA@6 ;FE 67E;9@ >;?;FE  *:7 7JB7D;?7@F3F;A@ :3E 3E ;FE
+3;? F:7 5D73F;A@ A8 9G;67>;@7E 8AD 3BB>;53F;A@ ;@ F:7
+3D5:37A>A9;53>8;7>6 
+*:7 E7FF;@9 GB A8 83?;>;7E A8 3D5:37A>A9;53> A4<75FE
+3>>AIEF:7AB7D3FADFA677B7@F:7=@AI>7697A8F:7E;@9>7
+B3DFE A8 F:7 EFDG5FGD7 FA AD93@;L7 3@6 B>3@ F:7
+6A5G?7@F3F;A@ FA 47 BDA6G576 3@6 FA 3FF35: ;F FA F:7
+
+
+
+224
+
+E;@9>7 7>7?7@F ;@EF3@57 F:7 I:A>7 ?A67> 53@ 47 GE76
+4K F:7 6;887D7@F EB75;3>;EFE IAD=;@9 8AD F:7 ?3@397?7@F
+3@67@:3@57?7@FA8F:73EE7F #?A67>>;@93>>AIEF:7
+E7FF;@9A8D75A@EFDG5F;H7:KBAF:7E7EA@F:7D73>?3EA@DK
+3>>AI;@9F:75D73F;A@A8D73>873E;4;>;FKEFG6;7E 
+*:7DG>7E3@6EF3@63D6EEA83DBDA6G5768ADF:7#3@6
+#?A67>E6A@AFF3=7;@FA355AG@FF:75A?B>7J;FKA8
+F:73D5:37A>A9;53>D73>;FK *:73EE7EE?7@FA8F:7"7H7>A8
+(7>;34;>;FK I:;5: F3=7E ;@FA 355AG@F 4AF: F:7 97A?7FD;5
+5A@8AD?;FK 3@6 F:7 A@FA>A9;53> 355GD35K A8 F:7 ?A67>
+I;F:D787D7@57FAF:7D73>;FKF:3F;E47;@967E5D;476?3K
+473EA>GF;A@1 2 F;E@757EE3DK3EKEF7?A87H3>G3F;A@
+A8 3D5:37A>A9;53> A4<75FE 3@6 ?A67>E ;@ #
+7@H;DA@?7@F "% 8AD 3D5:37A>A9K F:3F F3=7E ;@FA
+355AG@FF:7EB75;8;5;FKA8A4<75FEI:AE7EB75;8;58G@5F;A@
+;E5>AE7>KD7>3F76FAF:75:DA@A>A9;53>D787D7@575A@F7JF 
+*:7 5:3>>7@97 8AD F:7 8GFGD7 3BB>;53F;A@ A8 # FA
+3D5:37A>A9;53>E;F7EI;>>47?3;@>K43E76A@F:7D7GE7A8
+F:7E7?3@F;5E3@6F:7>;4D3D;7E 
+
+
+!$%-"#$*)
+*:;E IAD= :3E 477@ 53DD;76 AGF ;@ F:7 8D3?7IAD= A8 F:7
+&%$ D7E73D5: 3@6 ;@@AH3F;A@ BDA<75FE
+
+ 8AD
+@F7D@3F;A@3> FFD35F;A@ 3@6 #A4;>;FK # 3@6 F:7
+@@AH3F;H7A5FAD3F7EI;F:;@6GEFD;3>5:3D35F7D;L3F;A@ 
+*:73GF:ADEIAG>6>;=7FAF:3@=F:7D5:37A>A9;53>&3D=
+A8 &37EFG? 3@6 ;FE 6;D75FAD D  34D;7> 0G5:FD;797> 8AD
+F:7 5A>>34AD3F;A@ 3@6 &DA8  34D;L;A &7E3@6A A8
++@;H7DE;FK A8 $3B>7E N"%D;7@F3>7O 8AD F:7 E5;7@F;8;5
+EGBBADF 
+
+
+(($)
+1 2  A@AD #  #GDB:K
+ @F79D3F;A@ A8 :;EFAD;5
+# # 3@6  ) 8AD D75AD6;@9 3@6
+?3@39;@9G>FGD3>7D;F397E;F7E F:@F7D@3F;A@3>
+A@87D7@57 A@ ,;DFG3> )KEF7?E 3@6 #G>F;?76;3
+,)## &DA5776;@9E #;>3@A
+ .B>AD7
+6;9;F3>>;4D3DKBB  
+1 23D39@3@; )  3G55;   AH;  
+
+D5:37A# 63>>A E53HA 3> G;>6;@9 @8AD?3F;A@
+#A67>;@96;G@3EFDGFFGD3E7BA>F3 >53EA67>F7?B;A
+FGE53@;5A 6; +@; 3 #3DL34AFFA ;@ D5:7A>A9;3 7
+3>5A>3FAD; @  ..,  6;L;A@; >>@E79@3 67>
+;9>;A BB     
+123EF?3@ *7;5:A>L& )35=E& (3837>";EFA@! 
+ # 3@64AA=  G;67 FA G;>6;@9
+@8AD?3F;A@ #A67>;@9 8AD %I@7DE #3@397DE
+7E;9@7DE @9;@77DE 3@6 A@FD35FADE -;>7K
+A4A=7@$7I 7DE7K  
+12#  #GDB:K   #5AH7D@3 )  &3H;3
+
+N;EFAD;5 4G;>6;@9 ;@8AD?3F;A@ ?A67>;@9  66;@9
+;@F7>>;97@57 FA >3E7D 3@6 ;?39743E76 EGDH7KE A8
+GDAB73@ 5>3EE;53> 3D5:;F75FGD7O @F7D@3F;A@3>
+D5:;H7E A8 F:7 &:AFA9D3??7FDK (7?AF7 )7@E;@9
+
+#!%*@F7D@3F;A@3>A@87D7@57A@
+#7FDA>A9K8ADD5:37A>A9K3@6G>FGD3>7D;F397
+*D7@FAF3>K%5FA47D  
+
+
+
+3@6 )B3F;3> @8AD?3F;A@ )5;7@57E ,A>G?7
+..., - 
+ )&() *D7@FA
+
+-AD=E:AB  #3D5:
+ *D7@FA F3>K BB  
+
+
+,-/%!.BB D5:37ABD7EE%J8AD6 
+12  ;E7@47;R )  )3GD4;7D
+ N@H7EF;93F;A@ A8
++, EKEF7? 3@6 8>;9:F ?A67E 8AD B:AFA9D3??7FD;5
+3BB>;53F;A@O *:7 &:AFA9D3??7FD;5 (75AD6 
+ BB   
+
+12AE5A P@6D73 $GLLA>A# 03@839@3& 
+  # 3BBDA35: 8AD F:7 3@3>KE;E A8 3@
+12!D7;67D (     @ %@FA>A9K A8 F:7 GE7E A8
+3D5:37A>A9;53> ?A@G?7@F ;@ *:7 @F7D@3F;A@3>
+G;>6;@9 @8AD?3F;A@ #A67>;@9 *:7 &7@@EK>H3@;3
+D5:;H7E A8 F:7 &:AFA9D3??7FDK (7?AF7 )7@E;@9
+)F3F7 +@;H7DE;FK *:7 D36G3F7 )5:AA> *:7 A>>797
+3@6 )B3F;3> @8AD?3F;A@ )5;7@57E ,A>G?7 ."
+A8@9;@77D;@9 BB    
+-
+ F: @F>  -AD=E:AB ( N
+,;DFG3> (75A@EFDG5F;A@ 3@6 ,;EG3>;L3F;A@ A8 1 2 #3;7LL3&  E4G;>FD7>;34;>;FK;@3D5:;F75FGD3>
+A?B>7J D5:;F75FGD7EO M 74DG3DK
+
+:4;? ?A67>;@9 @F  D5:  &:AFA9D3??  (7?AF7
+7D93?AF3>KBB    
+)7@E  )B3F;3> @8  )5;  ." -  M
+:FFBE 6A; AD9
+  ;EBDE3D5:;H7E." -
+12 AE5A" 3DB7@F;7DA P@6D73 #;@G55;
+    
+  &7E3@6A (  ,3>7@F;@;
+  N$GAH7 ;@639;@;
+@7>>P;EA>3FA  6; &37EFG?O $7IE>7FF7D 6;
+
+D5:7A>A9;3),A> BB    
+
+12  (7?A@6;@A
+ +, &>3F8AD?E D79G>3F;A@E
+63F335CG;E;F;A@3@6BDA57EE;@9;@ (7?A@6;@A)  
+
+3?B3@3 76E    !+- %*# *  + !(%*# %*
+-$!+(+#4*  0(/0-(!-%/#!$!+-4* !./
+
+
+
+
+
+225
+
+
